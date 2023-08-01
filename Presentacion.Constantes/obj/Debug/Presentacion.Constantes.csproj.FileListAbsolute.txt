@@ -1,0 +1,54 @@
+C:\Users\lmagg\source\repos\Xcom\Presentacion.Constantes\bin\Debug\Presentacion.Constantes.dll
+C:\Users\lmagg\source\repos\Xcom\Presentacion.Constantes\bin\Debug\Presentacion.Constantes.pdb
+C:\Users\lmagg\source\repos\Xcom\Presentacion.Constantes\obj\Debug\Presentacion.Constantes.Properties.Resource1.resources
+C:\Users\lmagg\source\repos\Xcom\Presentacion.Constantes\obj\Debug\Presentacion.Constantes.csproj.GenerateResource.cache
+C:\Users\lmagg\source\repos\Xcom\Presentacion.Constantes\obj\Debug\Presentacion.Constantes.csproj.CoreCompileInputs.cache
+C:\Users\lmagg\source\repos\Xcom\Presentacion.Constantes\obj\Debug\Presentacion.Constantes.dll
+C:\Users\lmagg\source\repos\Xcom\Presentacion.Constantes\obj\Debug\Presentacion.Constantes.pdb
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Presentacion.Constantes\bin\Debug\Presentacion.Constantes.dll
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Presentacion.Constantes\bin\Debug\Presentacion.Constantes.pdb
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Presentacion.Constantes\obj\Debug\Presentacion.Constantes.csprojAssemblyReference.cache
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Presentacion.Constantes\obj\Debug\Presentacion.Constantes.Properties.Resource1.resources
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Presentacion.Constantes\obj\Debug\Presentacion.Constantes.csproj.GenerateResource.cache
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Presentacion.Constantes\obj\Debug\Presentacion.Constantes.csproj.CoreCompileInputs.cache
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Presentacion.Constantes\obj\Debug\Presentacion.Constantes.dll
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Presentacion.Constantes\obj\Debug\Presentacion.Constantes.pdb
+C:\Users\Fabio\Desktop\Xcom\Presentacion.Constantes\bin\Debug\Presentacion.Constantes.dll
+C:\Users\Fabio\Desktop\Xcom\Presentacion.Constantes\bin\Debug\Presentacion.Constantes.pdb
+C:\Users\Fabio\Desktop\Xcom\Presentacion.Constantes\obj\Debug\Presentacion.Constantes.Properties.Resource1.resources
+C:\Users\Fabio\Desktop\Xcom\Presentacion.Constantes\obj\Debug\Presentacion.Constantes.csproj.GenerateResource.cache
+C:\Users\Fabio\Desktop\Xcom\Presentacion.Constantes\obj\Debug\Presentacion.Constantes.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Desktop\Xcom\Presentacion.Constantes\obj\Debug\Presentacion.Constantes.dll
+C:\Users\Fabio\Desktop\Xcom\Presentacion.Constantes\obj\Debug\Presentacion.Constantes.pdb
+C:\Users\leo\Desktop\respaldo\Xcom\Presentacion.Constantes\bin\Debug\Presentacion.Constantes.dll
+C:\Users\leo\Desktop\respaldo\Xcom\Presentacion.Constantes\bin\Debug\Presentacion.Constantes.pdb
+C:\Users\leo\Desktop\respaldo\Xcom\Presentacion.Constantes\obj\Debug\Presentacion.Constantes.csprojAssemblyReference.cache
+C:\Users\leo\Desktop\respaldo\Xcom\Presentacion.Constantes\obj\Debug\Presentacion.Constantes.Properties.Resource1.resources
+C:\Users\leo\Desktop\respaldo\Xcom\Presentacion.Constantes\obj\Debug\Presentacion.Constantes.csproj.GenerateResource.cache
+C:\Users\leo\Desktop\respaldo\Xcom\Presentacion.Constantes\obj\Debug\Presentacion.Constantes.csproj.CoreCompileInputs.cache
+C:\Users\leo\Desktop\respaldo\Xcom\Presentacion.Constantes\obj\Debug\Presentacion.Constantes.dll
+C:\Users\leo\Desktop\respaldo\Xcom\Presentacion.Constantes\obj\Debug\Presentacion.Constantes.pdb
+C:\Users\leo\Desktop\final lab luk\Xcom\Presentacion.Constantes\bin\Debug\Presentacion.Constantes.dll
+C:\Users\leo\Desktop\final lab luk\Xcom\Presentacion.Constantes\bin\Debug\Presentacion.Constantes.pdb
+C:\Users\leo\Desktop\final lab luk\Xcom\Presentacion.Constantes\obj\Debug\Presentacion.Constantes.csprojAssemblyReference.cache
+C:\Users\leo\Desktop\final lab luk\Xcom\Presentacion.Constantes\obj\Debug\Presentacion.Constantes.Properties.Resource1.resources
+C:\Users\leo\Desktop\final lab luk\Xcom\Presentacion.Constantes\obj\Debug\Presentacion.Constantes.csproj.GenerateResource.cache
+C:\Users\leo\Desktop\final lab luk\Xcom\Presentacion.Constantes\obj\Debug\Presentacion.Constantes.csproj.CoreCompileInputs.cache
+C:\Users\leo\Desktop\final lab luk\Xcom\Presentacion.Constantes\obj\Debug\Presentacion.Constantes.dll
+C:\Users\leo\Desktop\final lab luk\Xcom\Presentacion.Constantes\obj\Debug\Presentacion.Constantes.pdb
+C:\Users\leo\Desktop\final lab\Xcom\Presentacion.Constantes\bin\Debug\Presentacion.Constantes.dll
+C:\Users\leo\Desktop\final lab\Xcom\Presentacion.Constantes\bin\Debug\Presentacion.Constantes.pdb
+C:\Users\leo\Desktop\final lab\Xcom\Presentacion.Constantes\obj\Debug\Presentacion.Constantes.csprojAssemblyReference.cache
+C:\Users\leo\Desktop\final lab\Xcom\Presentacion.Constantes\obj\Debug\Presentacion.Constantes.Properties.Resource1.resources
+C:\Users\leo\Desktop\final lab\Xcom\Presentacion.Constantes\obj\Debug\Presentacion.Constantes.csproj.GenerateResource.cache
+C:\Users\leo\Desktop\final lab\Xcom\Presentacion.Constantes\obj\Debug\Presentacion.Constantes.csproj.CoreCompileInputs.cache
+C:\Users\leo\Desktop\final lab\Xcom\Presentacion.Constantes\obj\Debug\Presentacion.Constantes.dll
+C:\Users\leo\Desktop\final lab\Xcom\Presentacion.Constantes\obj\Debug\Presentacion.Constantes.pdb
+C:\Users\54381\Desktop\Xcom\Presentacion.Constantes\bin\Debug\Presentacion.Constantes.dll
+C:\Users\54381\Desktop\Xcom\Presentacion.Constantes\bin\Debug\Presentacion.Constantes.pdb
+C:\Users\54381\Desktop\Xcom\Presentacion.Constantes\obj\Debug\Presentacion.Constantes.Properties.Resource1.resources
+C:\Users\54381\Desktop\Xcom\Presentacion.Constantes\obj\Debug\Presentacion.Constantes.csproj.GenerateResource.cache
+C:\Users\54381\Desktop\Xcom\Presentacion.Constantes\obj\Debug\Presentacion.Constantes.csproj.CoreCompileInputs.cache
+C:\Users\54381\Desktop\Xcom\Presentacion.Constantes\obj\Debug\Presentacion.Constantes.dll
+C:\Users\54381\Desktop\Xcom\Presentacion.Constantes\obj\Debug\Presentacion.Constantes.pdb
+C:\Users\54381\Desktop\Xcom\Presentacion.Constantes\obj\Debug\Presentacion.Constantes.csprojAssemblyReference.cache

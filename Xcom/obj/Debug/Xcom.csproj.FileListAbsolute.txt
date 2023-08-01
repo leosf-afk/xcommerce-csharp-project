@@ -1,0 +1,280 @@
+C:\Users\lmagg\source\repos\Xcom\Xcom\bin\Debug\Xcom.exe.config
+C:\Users\lmagg\source\repos\Xcom\Xcom\bin\Debug\Xcom.exe
+C:\Users\lmagg\source\repos\Xcom\Xcom\bin\Debug\Xcom.pdb
+C:\Users\lmagg\source\repos\Xcom\Xcom\bin\Debug\Pesentacion.Seguridad.exe
+C:\Users\lmagg\source\repos\Xcom\Xcom\bin\Debug\Pesentacion.Seguridad.pdb
+C:\Users\lmagg\source\repos\Xcom\Xcom\bin\Debug\Pesentacion.Seguridad.exe.config
+C:\Users\lmagg\source\repos\Xcom\Xcom\obj\Debug\Xcom.csprojAssemblyReference.cache
+C:\Users\lmagg\source\repos\Xcom\Xcom\obj\Debug\Xcom.Properties.Resources.resources
+C:\Users\lmagg\source\repos\Xcom\Xcom\obj\Debug\Xcom.csproj.GenerateResource.cache
+C:\Users\lmagg\source\repos\Xcom\Xcom\obj\Debug\Xcom.csproj.CoreCompileInputs.cache
+C:\Users\lmagg\source\repos\Xcom\Xcom\obj\Debug\Xcom.csproj.CopyComplete
+C:\Users\lmagg\source\repos\Xcom\Xcom\obj\Debug\Xcom.exe
+C:\Users\lmagg\source\repos\Xcom\Xcom\obj\Debug\Xcom.pdb
+C:\Users\lmagg\source\repos\Xcom\Xcom\bin\Debug\Xcom.Servicio.Seguridad.dll
+C:\Users\lmagg\source\repos\Xcom\Xcom\bin\Debug\Xcom.AccesoDatos.dll
+C:\Users\lmagg\source\repos\Xcom\Xcom\bin\Debug\EntityFramework.dll
+C:\Users\lmagg\source\repos\Xcom\Xcom\bin\Debug\Xcom.Servicio.Seguridad.pdb
+C:\Users\lmagg\source\repos\Xcom\Xcom\bin\Debug\Xcom.Servicio.Seguridad.dll.config
+C:\Users\lmagg\source\repos\Xcom\Xcom\bin\Debug\Xcom.AccesoDatos.pdb
+C:\Users\lmagg\source\repos\Xcom\Xcom\bin\Debug\Xcom.AccesoDatos.dll.config
+C:\Users\lmagg\source\repos\Xcom\Xcom\bin\Debug\EntityFramework.xml
+C:\Users\lmagg\source\repos\Xcom\Xcom\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lmagg\source\repos\Xcom\Xcom\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lmagg\source\repos\Xcom\Xcom\bin\Debug\Presentacion.Core.dll
+C:\Users\lmagg\source\repos\Xcom\Xcom\bin\Debug\Presentacion.FormularioBase.dll
+C:\Users\lmagg\source\repos\Xcom\Xcom\bin\Debug\Presentacion.Constantes.dll
+C:\Users\lmagg\source\repos\Xcom\Xcom\bin\Debug\Presentacion.Core.pdb
+C:\Users\lmagg\source\repos\Xcom\Xcom\bin\Debug\Presentacion.FormularioBase.pdb
+C:\Users\lmagg\source\repos\Xcom\Xcom\bin\Debug\Presentacion.Constantes.pdb
+C:\Users\lmagg\source\repos\Xcom\Xcom\bin\Debug\Xcom.Servicio.Core.dll
+C:\Users\lmagg\source\repos\Xcom\Xcom\bin\Debug\Xcom.Servicio.Core.pdb
+C:\Users\lmagg\source\repos\Xcom\Xcom\bin\Debug\Xcom.Servicio.Core.dll.config
+C:\Users\lmagg\source\repos\Xcom\Xcom\obj\Debug\Xcom.Principal.resources
+C:\Users\lmagg\source\repos\Xcom\Xcom\bin\Debug\Presentacion.Helpers.dll
+C:\Users\lmagg\source\repos\Xcom\Xcom\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Xcom\bin\Debug\Xcom.exe.config
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Xcom\bin\Debug\Xcom.exe
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Xcom\bin\Debug\Xcom.pdb
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Xcom\bin\Debug\EntityFramework.dll
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Xcom\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Xcom\bin\Debug\Pesentacion.Seguridad.exe
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Xcom\bin\Debug\Presentacion.Core.dll
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Xcom\bin\Debug\Presentacion.FormularioBase.dll
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Xcom\bin\Debug\Presentacion.Helpers.dll
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Xcom\bin\Debug\Xcom.Servicio.Seguridad.dll
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Xcom\bin\Debug\Xcom.Servicio.Core.dll
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Xcom\bin\Debug\Presentacion.Constantes.dll
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Xcom\bin\Debug\Xcom.AccesoDatos.dll
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Xcom\bin\Debug\Pesentacion.Seguridad.pdb
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Xcom\bin\Debug\Pesentacion.Seguridad.exe.config
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Xcom\bin\Debug\Presentacion.Core.pdb
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Xcom\bin\Debug\Presentacion.FormularioBase.pdb
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Xcom\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Xcom\bin\Debug\Xcom.Servicio.Seguridad.pdb
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Xcom\bin\Debug\Xcom.Servicio.Seguridad.dll.config
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Xcom\bin\Debug\EntityFramework.xml
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Xcom\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Xcom\bin\Debug\Xcom.Servicio.Core.pdb
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Xcom\bin\Debug\Xcom.Servicio.Core.dll.config
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Xcom\bin\Debug\Presentacion.Constantes.pdb
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Xcom\bin\Debug\Xcom.AccesoDatos.pdb
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Xcom\bin\Debug\Xcom.AccesoDatos.dll.config
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Xcom\obj\Debug\Xcom.csprojAssemblyReference.cache
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Xcom\obj\Debug\Xcom.Principal.resources
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Xcom\obj\Debug\Xcom.Properties.Resources.resources
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Xcom\obj\Debug\Xcom.csproj.GenerateResource.cache
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Xcom\obj\Debug\Xcom.csproj.CoreCompileInputs.cache
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Xcom\obj\Debug\Xcom.csproj.CopyComplete
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Xcom\obj\Debug\Xcom.exe
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Xcom\obj\Debug\Xcom.pdb
+C:\Users\Fabio\Desktop\Xcom\Xcom\bin\Debug\Xcom.exe.config
+C:\Users\Fabio\Desktop\Xcom\Xcom\bin\Debug\Xcom.exe
+C:\Users\Fabio\Desktop\Xcom\Xcom\bin\Debug\Xcom.pdb
+C:\Users\Fabio\Desktop\Xcom\Xcom\bin\Debug\EntityFramework.dll
+C:\Users\Fabio\Desktop\Xcom\Xcom\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Fabio\Desktop\Xcom\Xcom\bin\Debug\Pesentacion.Seguridad.exe
+C:\Users\Fabio\Desktop\Xcom\Xcom\bin\Debug\Presentacion.Constantes.dll
+C:\Users\Fabio\Desktop\Xcom\Xcom\bin\Debug\Presentacion.Core.dll
+C:\Users\Fabio\Desktop\Xcom\Xcom\bin\Debug\Presentacion.FormularioBase.dll
+C:\Users\Fabio\Desktop\Xcom\Xcom\bin\Debug\Presentacion.Helpers.dll
+C:\Users\Fabio\Desktop\Xcom\Xcom\bin\Debug\Xcom.Servicio.Core.dll
+C:\Users\Fabio\Desktop\Xcom\Xcom\bin\Debug\Xcom.Servicio.Seguridad.dll
+C:\Users\Fabio\Desktop\Xcom\Xcom\bin\Debug\Xcom.AccesoDatos.dll
+C:\Users\Fabio\Desktop\Xcom\Xcom\bin\Debug\Pesentacion.Seguridad.pdb
+C:\Users\Fabio\Desktop\Xcom\Xcom\bin\Debug\Pesentacion.Seguridad.exe.config
+C:\Users\Fabio\Desktop\Xcom\Xcom\bin\Debug\Presentacion.Constantes.pdb
+C:\Users\Fabio\Desktop\Xcom\Xcom\bin\Debug\Presentacion.Core.pdb
+C:\Users\Fabio\Desktop\Xcom\Xcom\bin\Debug\Presentacion.FormularioBase.pdb
+C:\Users\Fabio\Desktop\Xcom\Xcom\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\Fabio\Desktop\Xcom\Xcom\bin\Debug\Xcom.Servicio.Core.pdb
+C:\Users\Fabio\Desktop\Xcom\Xcom\bin\Debug\Xcom.Servicio.Core.dll.config
+C:\Users\Fabio\Desktop\Xcom\Xcom\bin\Debug\Xcom.Servicio.Seguridad.pdb
+C:\Users\Fabio\Desktop\Xcom\Xcom\bin\Debug\Xcom.Servicio.Seguridad.dll.config
+C:\Users\Fabio\Desktop\Xcom\Xcom\bin\Debug\EntityFramework.xml
+C:\Users\Fabio\Desktop\Xcom\Xcom\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Fabio\Desktop\Xcom\Xcom\bin\Debug\Xcom.AccesoDatos.pdb
+C:\Users\Fabio\Desktop\Xcom\Xcom\bin\Debug\Xcom.AccesoDatos.dll.config
+C:\Users\Fabio\Desktop\Xcom\Xcom\obj\Debug\Xcom.csprojResolveAssemblyReference.cache
+C:\Users\Fabio\Desktop\Xcom\Xcom\obj\Debug\Xcom.Principal.resources
+C:\Users\Fabio\Desktop\Xcom\Xcom\obj\Debug\Xcom.Properties.Resources.resources
+C:\Users\Fabio\Desktop\Xcom\Xcom\obj\Debug\Xcom.csproj.GenerateResource.cache
+C:\Users\Fabio\Desktop\Xcom\Xcom\obj\Debug\Xcom.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Desktop\Xcom\Xcom\obj\Debug\Xcom.csproj.CopyComplete
+C:\Users\Fabio\Desktop\Xcom\Xcom\obj\Debug\Xcom.exe
+C:\Users\Fabio\Desktop\Xcom\Xcom\obj\Debug\Xcom.pdb
+C:\Users\leo\Desktop\respaldo\Xcom\Xcom\bin\Debug\Xcom.exe.config
+C:\Users\leo\Desktop\respaldo\Xcom\Xcom\bin\Debug\Xcom.exe
+C:\Users\leo\Desktop\respaldo\Xcom\Xcom\bin\Debug\Xcom.pdb
+C:\Users\leo\Desktop\respaldo\Xcom\Xcom\bin\Debug\EntityFramework.dll
+C:\Users\leo\Desktop\respaldo\Xcom\Xcom\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\leo\Desktop\respaldo\Xcom\Xcom\bin\Debug\Pesentacion.Seguridad.exe
+C:\Users\leo\Desktop\respaldo\Xcom\Xcom\bin\Debug\Presentacion.Constantes.dll
+C:\Users\leo\Desktop\respaldo\Xcom\Xcom\bin\Debug\Presentacion.Core.dll
+C:\Users\leo\Desktop\respaldo\Xcom\Xcom\bin\Debug\Presentacion.FormularioBase.dll
+C:\Users\leo\Desktop\respaldo\Xcom\Xcom\bin\Debug\Presentacion.Helpers.dll
+C:\Users\leo\Desktop\respaldo\Xcom\Xcom\bin\Debug\Xcom.Servicio.Core.dll
+C:\Users\leo\Desktop\respaldo\Xcom\Xcom\bin\Debug\Xcom.Servicio.Seguridad.dll
+C:\Users\leo\Desktop\respaldo\Xcom\Xcom\bin\Debug\Xcom.AccesoDatos.dll
+C:\Users\leo\Desktop\respaldo\Xcom\Xcom\bin\Debug\Pesentacion.Seguridad.pdb
+C:\Users\leo\Desktop\respaldo\Xcom\Xcom\bin\Debug\Pesentacion.Seguridad.exe.config
+C:\Users\leo\Desktop\respaldo\Xcom\Xcom\bin\Debug\Presentacion.Constantes.pdb
+C:\Users\leo\Desktop\respaldo\Xcom\Xcom\bin\Debug\Presentacion.Core.pdb
+C:\Users\leo\Desktop\respaldo\Xcom\Xcom\bin\Debug\Presentacion.FormularioBase.pdb
+C:\Users\leo\Desktop\respaldo\Xcom\Xcom\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\leo\Desktop\respaldo\Xcom\Xcom\bin\Debug\Xcom.Servicio.Core.pdb
+C:\Users\leo\Desktop\respaldo\Xcom\Xcom\bin\Debug\Xcom.Servicio.Core.dll.config
+C:\Users\leo\Desktop\respaldo\Xcom\Xcom\bin\Debug\Xcom.Servicio.Seguridad.pdb
+C:\Users\leo\Desktop\respaldo\Xcom\Xcom\bin\Debug\Xcom.Servicio.Seguridad.dll.config
+C:\Users\leo\Desktop\respaldo\Xcom\Xcom\bin\Debug\EntityFramework.xml
+C:\Users\leo\Desktop\respaldo\Xcom\Xcom\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\leo\Desktop\respaldo\Xcom\Xcom\bin\Debug\Xcom.AccesoDatos.pdb
+C:\Users\leo\Desktop\respaldo\Xcom\Xcom\bin\Debug\Xcom.AccesoDatos.dll.config
+C:\Users\leo\Desktop\respaldo\Xcom\Xcom\obj\Debug\Xcom.csprojAssemblyReference.cache
+C:\Users\leo\Desktop\respaldo\Xcom\Xcom\obj\Debug\Xcom.Principal.resources
+C:\Users\leo\Desktop\respaldo\Xcom\Xcom\obj\Debug\Xcom.Properties.Resources.resources
+C:\Users\leo\Desktop\respaldo\Xcom\Xcom\obj\Debug\Xcom.csproj.GenerateResource.cache
+C:\Users\leo\Desktop\respaldo\Xcom\Xcom\obj\Debug\Xcom.csproj.CoreCompileInputs.cache
+C:\Users\leo\Desktop\respaldo\Xcom\Xcom\obj\Debug\Xcom.csproj.CopyComplete
+C:\Users\leo\Desktop\respaldo\Xcom\Xcom\obj\Debug\Xcom.exe
+C:\Users\leo\Desktop\respaldo\Xcom\Xcom\obj\Debug\Xcom.pdb
+C:\Users\enzoa\Desktop\Xcom\Xcom\bin\Debug\Xcom.exe.config
+C:\Users\enzoa\Desktop\Xcom\Xcom\bin\Debug\Xcom.exe
+C:\Users\enzoa\Desktop\Xcom\Xcom\bin\Debug\Xcom.pdb
+C:\Users\enzoa\Desktop\Xcom\Xcom\bin\Debug\EntityFramework.dll
+C:\Users\enzoa\Desktop\Xcom\Xcom\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\enzoa\Desktop\Xcom\Xcom\bin\Debug\Pesentacion.Seguridad.exe
+C:\Users\enzoa\Desktop\Xcom\Xcom\bin\Debug\Presentacion.Constantes.dll
+C:\Users\enzoa\Desktop\Xcom\Xcom\bin\Debug\Presentacion.Core.dll
+C:\Users\enzoa\Desktop\Xcom\Xcom\bin\Debug\Presentacion.FormularioBase.dll
+C:\Users\enzoa\Desktop\Xcom\Xcom\bin\Debug\Presentacion.Helpers.dll
+C:\Users\enzoa\Desktop\Xcom\Xcom\bin\Debug\Xcom.Servicio.Core.dll
+C:\Users\enzoa\Desktop\Xcom\Xcom\bin\Debug\Xcom.Servicio.Seguridad.dll
+C:\Users\enzoa\Desktop\Xcom\Xcom\bin\Debug\Xcom.AccesoDatos.dll
+C:\Users\enzoa\Desktop\Xcom\Xcom\bin\Debug\Pesentacion.Seguridad.pdb
+C:\Users\enzoa\Desktop\Xcom\Xcom\bin\Debug\Pesentacion.Seguridad.exe.config
+C:\Users\enzoa\Desktop\Xcom\Xcom\bin\Debug\Presentacion.Constantes.pdb
+C:\Users\enzoa\Desktop\Xcom\Xcom\bin\Debug\Presentacion.Core.pdb
+C:\Users\enzoa\Desktop\Xcom\Xcom\bin\Debug\Presentacion.FormularioBase.pdb
+C:\Users\enzoa\Desktop\Xcom\Xcom\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\enzoa\Desktop\Xcom\Xcom\bin\Debug\Xcom.Servicio.Core.pdb
+C:\Users\enzoa\Desktop\Xcom\Xcom\bin\Debug\Xcom.Servicio.Core.dll.config
+C:\Users\enzoa\Desktop\Xcom\Xcom\bin\Debug\Xcom.Servicio.Seguridad.pdb
+C:\Users\enzoa\Desktop\Xcom\Xcom\bin\Debug\Xcom.Servicio.Seguridad.dll.config
+C:\Users\enzoa\Desktop\Xcom\Xcom\bin\Debug\EntityFramework.xml
+C:\Users\enzoa\Desktop\Xcom\Xcom\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\enzoa\Desktop\Xcom\Xcom\bin\Debug\Xcom.AccesoDatos.pdb
+C:\Users\enzoa\Desktop\Xcom\Xcom\bin\Debug\Xcom.AccesoDatos.dll.config
+C:\Users\enzoa\Desktop\Xcom\Xcom\obj\Debug\Xcom.csprojAssemblyReference.cache
+C:\Users\enzoa\Desktop\Xcom\Xcom\obj\Debug\Xcom.Principal.resources
+C:\Users\enzoa\Desktop\Xcom\Xcom\obj\Debug\Xcom.Properties.Resources.resources
+C:\Users\enzoa\Desktop\Xcom\Xcom\obj\Debug\Xcom.csproj.GenerateResource.cache
+C:\Users\enzoa\Desktop\Xcom\Xcom\obj\Debug\Xcom.csproj.CoreCompileInputs.cache
+C:\Users\enzoa\Desktop\Xcom\Xcom\obj\Debug\Xcom.csproj.CopyComplete
+C:\Users\enzoa\Desktop\Xcom\Xcom\obj\Debug\Xcom.exe
+C:\Users\enzoa\Desktop\Xcom\Xcom\obj\Debug\Xcom.pdb
+C:\Users\leo\Desktop\final lab luk\Xcom\Xcom\bin\Debug\Xcom.exe.config
+C:\Users\leo\Desktop\final lab luk\Xcom\Xcom\bin\Debug\Xcom.exe
+C:\Users\leo\Desktop\final lab luk\Xcom\Xcom\bin\Debug\Xcom.pdb
+C:\Users\leo\Desktop\final lab luk\Xcom\Xcom\bin\Debug\EntityFramework.dll
+C:\Users\leo\Desktop\final lab luk\Xcom\Xcom\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\leo\Desktop\final lab luk\Xcom\Xcom\bin\Debug\Pesentacion.Seguridad.exe
+C:\Users\leo\Desktop\final lab luk\Xcom\Xcom\bin\Debug\Presentacion.Constantes.dll
+C:\Users\leo\Desktop\final lab luk\Xcom\Xcom\bin\Debug\Presentacion.Core.dll
+C:\Users\leo\Desktop\final lab luk\Xcom\Xcom\bin\Debug\Presentacion.FormularioBase.dll
+C:\Users\leo\Desktop\final lab luk\Xcom\Xcom\bin\Debug\Presentacion.Helpers.dll
+C:\Users\leo\Desktop\final lab luk\Xcom\Xcom\bin\Debug\Xcom.Servicio.Core.dll
+C:\Users\leo\Desktop\final lab luk\Xcom\Xcom\bin\Debug\Xcom.Servicio.Seguridad.dll
+C:\Users\leo\Desktop\final lab luk\Xcom\Xcom\bin\Debug\Xcom.AccesoDatos.dll
+C:\Users\leo\Desktop\final lab luk\Xcom\Xcom\bin\Debug\Pesentacion.Seguridad.pdb
+C:\Users\leo\Desktop\final lab luk\Xcom\Xcom\bin\Debug\Pesentacion.Seguridad.exe.config
+C:\Users\leo\Desktop\final lab luk\Xcom\Xcom\bin\Debug\Presentacion.Constantes.pdb
+C:\Users\leo\Desktop\final lab luk\Xcom\Xcom\bin\Debug\Presentacion.Core.pdb
+C:\Users\leo\Desktop\final lab luk\Xcom\Xcom\bin\Debug\Presentacion.FormularioBase.pdb
+C:\Users\leo\Desktop\final lab luk\Xcom\Xcom\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\leo\Desktop\final lab luk\Xcom\Xcom\bin\Debug\Xcom.Servicio.Core.pdb
+C:\Users\leo\Desktop\final lab luk\Xcom\Xcom\bin\Debug\Xcom.Servicio.Core.dll.config
+C:\Users\leo\Desktop\final lab luk\Xcom\Xcom\bin\Debug\Xcom.Servicio.Seguridad.pdb
+C:\Users\leo\Desktop\final lab luk\Xcom\Xcom\bin\Debug\Xcom.Servicio.Seguridad.dll.config
+C:\Users\leo\Desktop\final lab luk\Xcom\Xcom\bin\Debug\EntityFramework.xml
+C:\Users\leo\Desktop\final lab luk\Xcom\Xcom\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\leo\Desktop\final lab luk\Xcom\Xcom\bin\Debug\Xcom.AccesoDatos.pdb
+C:\Users\leo\Desktop\final lab luk\Xcom\Xcom\bin\Debug\Xcom.AccesoDatos.dll.config
+C:\Users\leo\Desktop\final lab luk\Xcom\Xcom\obj\Debug\Xcom.csprojAssemblyReference.cache
+C:\Users\leo\Desktop\final lab luk\Xcom\Xcom\obj\Debug\Xcom.Principal.resources
+C:\Users\leo\Desktop\final lab luk\Xcom\Xcom\obj\Debug\Xcom.Properties.Resources.resources
+C:\Users\leo\Desktop\final lab luk\Xcom\Xcom\obj\Debug\Xcom.csproj.GenerateResource.cache
+C:\Users\leo\Desktop\final lab luk\Xcom\Xcom\obj\Debug\Xcom.csproj.CoreCompileInputs.cache
+C:\Users\leo\Desktop\final lab luk\Xcom\Xcom\obj\Debug\Xcom.csproj.CopyComplete
+C:\Users\leo\Desktop\final lab luk\Xcom\Xcom\obj\Debug\Xcom.exe
+C:\Users\leo\Desktop\final lab luk\Xcom\Xcom\obj\Debug\Xcom.pdb
+C:\Users\leo\Desktop\final lab\Xcom\Xcom\bin\Debug\Xcom.exe.config
+C:\Users\leo\Desktop\final lab\Xcom\Xcom\bin\Debug\Xcom.exe
+C:\Users\leo\Desktop\final lab\Xcom\Xcom\bin\Debug\Xcom.pdb
+C:\Users\leo\Desktop\final lab\Xcom\Xcom\bin\Debug\EntityFramework.dll
+C:\Users\leo\Desktop\final lab\Xcom\Xcom\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\leo\Desktop\final lab\Xcom\Xcom\bin\Debug\Pesentacion.Seguridad.exe
+C:\Users\leo\Desktop\final lab\Xcom\Xcom\bin\Debug\Presentacion.Constantes.dll
+C:\Users\leo\Desktop\final lab\Xcom\Xcom\bin\Debug\Presentacion.Core.dll
+C:\Users\leo\Desktop\final lab\Xcom\Xcom\bin\Debug\Presentacion.FormularioBase.dll
+C:\Users\leo\Desktop\final lab\Xcom\Xcom\bin\Debug\Presentacion.Helpers.dll
+C:\Users\leo\Desktop\final lab\Xcom\Xcom\bin\Debug\Xcom.Servicio.Core.dll
+C:\Users\leo\Desktop\final lab\Xcom\Xcom\bin\Debug\Xcom.Servicio.Seguridad.dll
+C:\Users\leo\Desktop\final lab\Xcom\Xcom\bin\Debug\Xcom.AccesoDatos.dll
+C:\Users\leo\Desktop\final lab\Xcom\Xcom\bin\Debug\Pesentacion.Seguridad.pdb
+C:\Users\leo\Desktop\final lab\Xcom\Xcom\bin\Debug\Pesentacion.Seguridad.exe.config
+C:\Users\leo\Desktop\final lab\Xcom\Xcom\bin\Debug\Presentacion.Constantes.pdb
+C:\Users\leo\Desktop\final lab\Xcom\Xcom\bin\Debug\Presentacion.Core.pdb
+C:\Users\leo\Desktop\final lab\Xcom\Xcom\bin\Debug\Presentacion.FormularioBase.pdb
+C:\Users\leo\Desktop\final lab\Xcom\Xcom\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\leo\Desktop\final lab\Xcom\Xcom\bin\Debug\Xcom.Servicio.Core.pdb
+C:\Users\leo\Desktop\final lab\Xcom\Xcom\bin\Debug\Xcom.Servicio.Core.dll.config
+C:\Users\leo\Desktop\final lab\Xcom\Xcom\bin\Debug\Xcom.Servicio.Seguridad.pdb
+C:\Users\leo\Desktop\final lab\Xcom\Xcom\bin\Debug\Xcom.Servicio.Seguridad.dll.config
+C:\Users\leo\Desktop\final lab\Xcom\Xcom\bin\Debug\EntityFramework.xml
+C:\Users\leo\Desktop\final lab\Xcom\Xcom\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\leo\Desktop\final lab\Xcom\Xcom\bin\Debug\Xcom.AccesoDatos.pdb
+C:\Users\leo\Desktop\final lab\Xcom\Xcom\bin\Debug\Xcom.AccesoDatos.dll.config
+C:\Users\leo\Desktop\final lab\Xcom\Xcom\obj\Debug\Xcom.csprojAssemblyReference.cache
+C:\Users\leo\Desktop\final lab\Xcom\Xcom\obj\Debug\Xcom.Principal.resources
+C:\Users\leo\Desktop\final lab\Xcom\Xcom\obj\Debug\Xcom.Properties.Resources.resources
+C:\Users\leo\Desktop\final lab\Xcom\Xcom\obj\Debug\Xcom.csproj.GenerateResource.cache
+C:\Users\leo\Desktop\final lab\Xcom\Xcom\obj\Debug\Xcom.csproj.CoreCompileInputs.cache
+C:\Users\leo\Desktop\final lab\Xcom\Xcom\obj\Debug\Xcom.csproj.CopyComplete
+C:\Users\leo\Desktop\final lab\Xcom\Xcom\obj\Debug\Xcom.exe
+C:\Users\leo\Desktop\final lab\Xcom\Xcom\obj\Debug\Xcom.pdb
+C:\Users\54381\Desktop\Xcom\Xcom\bin\Debug\Xcom.exe.config
+C:\Users\54381\Desktop\Xcom\Xcom\bin\Debug\Xcom.exe
+C:\Users\54381\Desktop\Xcom\Xcom\bin\Debug\Xcom.pdb
+C:\Users\54381\Desktop\Xcom\Xcom\bin\Debug\EntityFramework.dll
+C:\Users\54381\Desktop\Xcom\Xcom\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\54381\Desktop\Xcom\Xcom\bin\Debug\Pesentacion.Seguridad.exe
+C:\Users\54381\Desktop\Xcom\Xcom\bin\Debug\Presentacion.Constantes.dll
+C:\Users\54381\Desktop\Xcom\Xcom\bin\Debug\Presentacion.Core.dll
+C:\Users\54381\Desktop\Xcom\Xcom\bin\Debug\Presentacion.FormularioBase.dll
+C:\Users\54381\Desktop\Xcom\Xcom\bin\Debug\Presentacion.Helpers.dll
+C:\Users\54381\Desktop\Xcom\Xcom\bin\Debug\Xcom.Servicio.Core.dll
+C:\Users\54381\Desktop\Xcom\Xcom\bin\Debug\Xcom.Servicio.Seguridad.dll
+C:\Users\54381\Desktop\Xcom\Xcom\bin\Debug\Xcom.AccesoDatos.dll
+C:\Users\54381\Desktop\Xcom\Xcom\bin\Debug\Pesentacion.Seguridad.pdb
+C:\Users\54381\Desktop\Xcom\Xcom\bin\Debug\Pesentacion.Seguridad.exe.config
+C:\Users\54381\Desktop\Xcom\Xcom\bin\Debug\Presentacion.Constantes.pdb
+C:\Users\54381\Desktop\Xcom\Xcom\bin\Debug\Presentacion.Core.pdb
+C:\Users\54381\Desktop\Xcom\Xcom\bin\Debug\Presentacion.FormularioBase.pdb
+C:\Users\54381\Desktop\Xcom\Xcom\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\54381\Desktop\Xcom\Xcom\bin\Debug\Xcom.Servicio.Core.pdb
+C:\Users\54381\Desktop\Xcom\Xcom\bin\Debug\Xcom.Servicio.Core.dll.config
+C:\Users\54381\Desktop\Xcom\Xcom\bin\Debug\Xcom.Servicio.Seguridad.pdb
+C:\Users\54381\Desktop\Xcom\Xcom\bin\Debug\Xcom.Servicio.Seguridad.dll.config
+C:\Users\54381\Desktop\Xcom\Xcom\bin\Debug\EntityFramework.xml
+C:\Users\54381\Desktop\Xcom\Xcom\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\54381\Desktop\Xcom\Xcom\bin\Debug\Xcom.AccesoDatos.pdb
+C:\Users\54381\Desktop\Xcom\Xcom\bin\Debug\Xcom.AccesoDatos.dll.config
+C:\Users\54381\Desktop\Xcom\Xcom\obj\Debug\Xcom.csprojAssemblyReference.cache
+C:\Users\54381\Desktop\Xcom\Xcom\obj\Debug\Xcom.Principal.resources
+C:\Users\54381\Desktop\Xcom\Xcom\obj\Debug\Xcom.Properties.Resources.resources
+C:\Users\54381\Desktop\Xcom\Xcom\obj\Debug\Xcom.csproj.GenerateResource.cache
+C:\Users\54381\Desktop\Xcom\Xcom\obj\Debug\Xcom.csproj.CoreCompileInputs.cache
+C:\Users\54381\Desktop\Xcom\Xcom\obj\Debug\Xcom.csproj.CopyComplete
+C:\Users\54381\Desktop\Xcom\Xcom\obj\Debug\Xcom.exe
+C:\Users\54381\Desktop\Xcom\Xcom\obj\Debug\Xcom.pdb

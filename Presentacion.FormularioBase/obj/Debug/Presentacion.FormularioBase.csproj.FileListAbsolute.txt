@@ -1,0 +1,105 @@
+C:\Users\lmagg\source\repos\Xcom\Presentacion.FormularioBase\bin\Debug\Presentacion.FormularioBase.dll
+C:\Users\lmagg\source\repos\Xcom\Presentacion.FormularioBase\bin\Debug\Presentacion.FormularioBase.pdb
+C:\Users\lmagg\source\repos\Xcom\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioBase.resources
+C:\Users\lmagg\source\repos\Xcom\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csproj.GenerateResource.cache
+C:\Users\lmagg\source\repos\Xcom\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csproj.CoreCompileInputs.cache
+C:\Users\lmagg\source\repos\Xcom\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.dll
+C:\Users\lmagg\source\repos\Xcom\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.pdb
+C:\Users\lmagg\source\repos\Xcom\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioABM.resources
+C:\Users\lmagg\source\repos\Xcom\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioConsulta.resources
+C:\Users\lmagg\source\repos\Xcom\Presentacion.FormularioBase\bin\Debug\Presentacion.Constantes.dll
+C:\Users\lmagg\source\repos\Xcom\Presentacion.FormularioBase\bin\Debug\Presentacion.Constantes.pdb
+C:\Users\lmagg\source\repos\Xcom\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csprojAssemblyReference.cache
+C:\Users\lmagg\source\repos\Xcom\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csproj.CopyComplete
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Presentacion.FormularioBase\bin\Debug\Presentacion.FormularioBase.dll
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Presentacion.FormularioBase\bin\Debug\Presentacion.FormularioBase.pdb
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Presentacion.FormularioBase\bin\Debug\Presentacion.Constantes.dll
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Presentacion.FormularioBase\bin\Debug\Presentacion.Constantes.pdb
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csprojAssemblyReference.cache
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioABM.resources
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioBase.resources
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioConsulta.resources
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csproj.GenerateResource.cache
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csproj.CoreCompileInputs.cache
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csproj.CopyComplete
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.dll
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.pdb
+C:\Users\Fabio\Desktop\Xcom\Presentacion.FormularioBase\bin\Debug\Presentacion.FormularioBase.dll
+C:\Users\Fabio\Desktop\Xcom\Presentacion.FormularioBase\bin\Debug\Presentacion.FormularioBase.pdb
+C:\Users\Fabio\Desktop\Xcom\Presentacion.FormularioBase\bin\Debug\Presentacion.Constantes.dll
+C:\Users\Fabio\Desktop\Xcom\Presentacion.FormularioBase\bin\Debug\Presentacion.Constantes.pdb
+C:\Users\Fabio\Desktop\Xcom\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csprojResolveAssemblyReference.cache
+C:\Users\Fabio\Desktop\Xcom\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioABM.resources
+C:\Users\Fabio\Desktop\Xcom\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioBase.resources
+C:\Users\Fabio\Desktop\Xcom\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioConsulta.resources
+C:\Users\Fabio\Desktop\Xcom\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csproj.GenerateResource.cache
+C:\Users\Fabio\Desktop\Xcom\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Desktop\Xcom\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csproj.CopyComplete
+C:\Users\Fabio\Desktop\Xcom\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.dll
+C:\Users\Fabio\Desktop\Xcom\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.pdb
+C:\Users\leo\Desktop\respaldo\Xcom\Presentacion.FormularioBase\bin\Debug\Presentacion.FormularioBase.dll
+C:\Users\leo\Desktop\respaldo\Xcom\Presentacion.FormularioBase\bin\Debug\Presentacion.FormularioBase.pdb
+C:\Users\leo\Desktop\respaldo\Xcom\Presentacion.FormularioBase\bin\Debug\Presentacion.Constantes.dll
+C:\Users\leo\Desktop\respaldo\Xcom\Presentacion.FormularioBase\bin\Debug\Presentacion.Constantes.pdb
+C:\Users\leo\Desktop\respaldo\Xcom\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csprojAssemblyReference.cache
+C:\Users\leo\Desktop\respaldo\Xcom\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioABM.resources
+C:\Users\leo\Desktop\respaldo\Xcom\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioBase.resources
+C:\Users\leo\Desktop\respaldo\Xcom\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioConsulta.resources
+C:\Users\leo\Desktop\respaldo\Xcom\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csproj.GenerateResource.cache
+C:\Users\leo\Desktop\respaldo\Xcom\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csproj.CoreCompileInputs.cache
+C:\Users\leo\Desktop\respaldo\Xcom\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csproj.CopyComplete
+C:\Users\leo\Desktop\respaldo\Xcom\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.dll
+C:\Users\leo\Desktop\respaldo\Xcom\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.pdb
+C:\Users\enzoa\Desktop\Xcom\Presentacion.FormularioBase\bin\Debug\Presentacion.FormularioBase.dll
+C:\Users\enzoa\Desktop\Xcom\Presentacion.FormularioBase\bin\Debug\Presentacion.FormularioBase.pdb
+C:\Users\enzoa\Desktop\Xcom\Presentacion.FormularioBase\bin\Debug\Presentacion.Constantes.dll
+C:\Users\enzoa\Desktop\Xcom\Presentacion.FormularioBase\bin\Debug\Presentacion.Constantes.pdb
+C:\Users\enzoa\Desktop\Xcom\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csprojAssemblyReference.cache
+C:\Users\enzoa\Desktop\Xcom\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioABM.resources
+C:\Users\enzoa\Desktop\Xcom\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioBase.resources
+C:\Users\enzoa\Desktop\Xcom\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioConsulta.resources
+C:\Users\enzoa\Desktop\Xcom\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csproj.GenerateResource.cache
+C:\Users\enzoa\Desktop\Xcom\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csproj.CoreCompileInputs.cache
+C:\Users\enzoa\Desktop\Xcom\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csproj.CopyComplete
+C:\Users\enzoa\Desktop\Xcom\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.dll
+C:\Users\enzoa\Desktop\Xcom\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.pdb
+C:\Users\leo\Desktop\final lab luk\Xcom\Presentacion.FormularioBase\bin\Debug\Presentacion.FormularioBase.dll
+C:\Users\leo\Desktop\final lab luk\Xcom\Presentacion.FormularioBase\bin\Debug\Presentacion.FormularioBase.pdb
+C:\Users\leo\Desktop\final lab luk\Xcom\Presentacion.FormularioBase\bin\Debug\Presentacion.Constantes.dll
+C:\Users\leo\Desktop\final lab luk\Xcom\Presentacion.FormularioBase\bin\Debug\Presentacion.Constantes.pdb
+C:\Users\leo\Desktop\final lab luk\Xcom\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csprojAssemblyReference.cache
+C:\Users\leo\Desktop\final lab luk\Xcom\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioABM.resources
+C:\Users\leo\Desktop\final lab luk\Xcom\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioBase.resources
+C:\Users\leo\Desktop\final lab luk\Xcom\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioConsulta.resources
+C:\Users\leo\Desktop\final lab luk\Xcom\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csproj.GenerateResource.cache
+C:\Users\leo\Desktop\final lab luk\Xcom\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csproj.CoreCompileInputs.cache
+C:\Users\leo\Desktop\final lab luk\Xcom\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csproj.CopyComplete
+C:\Users\leo\Desktop\final lab luk\Xcom\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.dll
+C:\Users\leo\Desktop\final lab luk\Xcom\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.pdb
+C:\Users\leo\Desktop\final lab\Xcom\Presentacion.FormularioBase\bin\Debug\Presentacion.FormularioBase.dll
+C:\Users\leo\Desktop\final lab\Xcom\Presentacion.FormularioBase\bin\Debug\Presentacion.FormularioBase.pdb
+C:\Users\leo\Desktop\final lab\Xcom\Presentacion.FormularioBase\bin\Debug\Presentacion.Constantes.dll
+C:\Users\leo\Desktop\final lab\Xcom\Presentacion.FormularioBase\bin\Debug\Presentacion.Constantes.pdb
+C:\Users\leo\Desktop\final lab\Xcom\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csprojAssemblyReference.cache
+C:\Users\leo\Desktop\final lab\Xcom\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioABM.resources
+C:\Users\leo\Desktop\final lab\Xcom\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioBase.resources
+C:\Users\leo\Desktop\final lab\Xcom\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioConsulta.resources
+C:\Users\leo\Desktop\final lab\Xcom\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csproj.GenerateResource.cache
+C:\Users\leo\Desktop\final lab\Xcom\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csproj.CoreCompileInputs.cache
+C:\Users\leo\Desktop\final lab\Xcom\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csproj.CopyComplete
+C:\Users\leo\Desktop\final lab\Xcom\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.dll
+C:\Users\leo\Desktop\final lab\Xcom\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.pdb
+C:\Users\54381\Desktop\Xcom\Presentacion.FormularioBase\bin\Debug\Presentacion.FormularioBase.dll
+C:\Users\54381\Desktop\Xcom\Presentacion.FormularioBase\bin\Debug\Presentacion.FormularioBase.pdb
+C:\Users\54381\Desktop\Xcom\Presentacion.FormularioBase\bin\Debug\Presentacion.Constantes.dll
+C:\Users\54381\Desktop\Xcom\Presentacion.FormularioBase\bin\Debug\Presentacion.Constantes.pdb
+C:\Users\54381\Desktop\Xcom\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csprojAssemblyReference.cache
+C:\Users\54381\Desktop\Xcom\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioABM.resources
+C:\Users\54381\Desktop\Xcom\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioBase.resources
+C:\Users\54381\Desktop\Xcom\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioConsulta.resources
+C:\Users\54381\Desktop\Xcom\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csproj.GenerateResource.cache
+C:\Users\54381\Desktop\Xcom\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csproj.CoreCompileInputs.cache
+C:\Users\54381\Desktop\Xcom\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csproj.CopyComplete
+C:\Users\54381\Desktop\Xcom\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.dll
+C:\Users\54381\Desktop\Xcom\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.pdb
+C:\Users\54381\Desktop\Xcom\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.Properties.Resources.resources

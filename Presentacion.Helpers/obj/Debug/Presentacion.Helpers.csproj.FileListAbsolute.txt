@@ -1,0 +1,47 @@
+C:\Users\lmagg\source\repos\Xcom\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\lmagg\source\repos\Xcom\Presentacion.Helpers\bin\Debug\Presentacion.Helpers.dll
+C:\Users\lmagg\source\repos\Xcom\Presentacion.Helpers\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\lmagg\source\repos\Xcom\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.dll
+C:\Users\lmagg\source\repos\Xcom\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.pdb
+C:\Users\lmagg\source\repos\Xcom\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.Properties.Resources.resources
+C:\Users\lmagg\source\repos\Xcom\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.csproj.GenerateResource.cache
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Presentacion.Helpers\bin\Debug\Presentacion.Helpers.dll
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Presentacion.Helpers\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.csprojAssemblyReference.cache
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.Properties.Resources.resources
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.csproj.GenerateResource.cache
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.dll
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.pdb
+C:\Users\leo\Desktop\respaldo\Xcom\Presentacion.Helpers\bin\Debug\Presentacion.Helpers.dll
+C:\Users\leo\Desktop\respaldo\Xcom\Presentacion.Helpers\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\leo\Desktop\respaldo\Xcom\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.csprojAssemblyReference.cache
+C:\Users\leo\Desktop\respaldo\Xcom\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.Properties.Resources.resources
+C:\Users\leo\Desktop\respaldo\Xcom\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.csproj.GenerateResource.cache
+C:\Users\leo\Desktop\respaldo\Xcom\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\leo\Desktop\respaldo\Xcom\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.dll
+C:\Users\leo\Desktop\respaldo\Xcom\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.pdb
+C:\Users\leo\Desktop\final lab luk\Xcom\Presentacion.Helpers\bin\Debug\Presentacion.Helpers.dll
+C:\Users\leo\Desktop\final lab luk\Xcom\Presentacion.Helpers\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\leo\Desktop\final lab luk\Xcom\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.csprojAssemblyReference.cache
+C:\Users\leo\Desktop\final lab luk\Xcom\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.Properties.Resources.resources
+C:\Users\leo\Desktop\final lab luk\Xcom\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.csproj.GenerateResource.cache
+C:\Users\leo\Desktop\final lab luk\Xcom\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\leo\Desktop\final lab luk\Xcom\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.dll
+C:\Users\leo\Desktop\final lab luk\Xcom\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.pdb
+C:\Users\leo\Desktop\final lab\Xcom\Presentacion.Helpers\bin\Debug\Presentacion.Helpers.dll
+C:\Users\leo\Desktop\final lab\Xcom\Presentacion.Helpers\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\leo\Desktop\final lab\Xcom\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.csprojAssemblyReference.cache
+C:\Users\leo\Desktop\final lab\Xcom\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.Properties.Resources.resources
+C:\Users\leo\Desktop\final lab\Xcom\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.csproj.GenerateResource.cache
+C:\Users\leo\Desktop\final lab\Xcom\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\leo\Desktop\final lab\Xcom\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.dll
+C:\Users\leo\Desktop\final lab\Xcom\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.pdb
+C:\Users\54381\Desktop\Xcom\Presentacion.Helpers\bin\Debug\Presentacion.Helpers.dll
+C:\Users\54381\Desktop\Xcom\Presentacion.Helpers\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\54381\Desktop\Xcom\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.Properties.Resources.resources
+C:\Users\54381\Desktop\Xcom\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.csproj.GenerateResource.cache
+C:\Users\54381\Desktop\Xcom\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\54381\Desktop\Xcom\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.dll
+C:\Users\54381\Desktop\Xcom\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.pdb
+C:\Users\54381\Desktop\Xcom\Presentacion.Helpers\obj\Debug\Presentacion.Helpers.csprojAssemblyReference.cache

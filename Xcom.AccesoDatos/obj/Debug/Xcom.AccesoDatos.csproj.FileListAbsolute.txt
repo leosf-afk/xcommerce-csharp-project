@@ -1,0 +1,96 @@
+C:\Users\lmagg\source\repos\Xcom\Xcom.AccesoDatos\bin\Debug\Xcom.AccesoDatos.dll.config
+C:\Users\lmagg\source\repos\Xcom\Xcom.AccesoDatos\bin\Debug\Xcom.AccesoDatos.dll
+C:\Users\lmagg\source\repos\Xcom\Xcom.AccesoDatos\bin\Debug\Xcom.AccesoDatos.pdb
+C:\Users\lmagg\source\repos\Xcom\Xcom.AccesoDatos\bin\Debug\EntityFramework.dll
+C:\Users\lmagg\source\repos\Xcom\Xcom.AccesoDatos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lmagg\source\repos\Xcom\Xcom.AccesoDatos\bin\Debug\EntityFramework.xml
+C:\Users\lmagg\source\repos\Xcom\Xcom.AccesoDatos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lmagg\source\repos\Xcom\Xcom.AccesoDatos\obj\Debug\Xcom.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\lmagg\source\repos\Xcom\Xcom.AccesoDatos\obj\Debug\Xcom.AccesoDatos.csproj.CopyComplete
+C:\Users\lmagg\source\repos\Xcom\Xcom.AccesoDatos\obj\Debug\Xcom.AccesoDatos.dll
+C:\Users\lmagg\source\repos\Xcom\Xcom.AccesoDatos\obj\Debug\Xcom.AccesoDatos.pdb
+C:\Users\lmagg\source\repos\Xcom\Xcom.AccesoDatos\obj\Debug\Xcom.AccesoDatos.csprojAssemblyReference.cache
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Xcom.AccesoDatos\bin\Debug\Xcom.AccesoDatos.dll.config
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Xcom.AccesoDatos\bin\Debug\Xcom.AccesoDatos.dll
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Xcom.AccesoDatos\bin\Debug\Xcom.AccesoDatos.pdb
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Xcom.AccesoDatos\bin\Debug\EntityFramework.dll
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Xcom.AccesoDatos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Xcom.AccesoDatos\bin\Debug\EntityFramework.xml
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Xcom.AccesoDatos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Xcom.AccesoDatos\obj\Debug\Xcom.AccesoDatos.csprojAssemblyReference.cache
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Xcom.AccesoDatos\obj\Debug\Xcom.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Xcom.AccesoDatos\obj\Debug\Xcom.AccesoDatos.csproj.CopyComplete
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Xcom.AccesoDatos\obj\Debug\Xcom.AccesoDatos.dll
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Xcom.AccesoDatos\obj\Debug\Xcom.AccesoDatos.pdb
+C:\Users\Fabio\Desktop\Xcom\Xcom.AccesoDatos\bin\Debug\Xcom.AccesoDatos.dll.config
+C:\Users\Fabio\Desktop\Xcom\Xcom.AccesoDatos\bin\Debug\Xcom.AccesoDatos.dll
+C:\Users\Fabio\Desktop\Xcom\Xcom.AccesoDatos\bin\Debug\Xcom.AccesoDatos.pdb
+C:\Users\Fabio\Desktop\Xcom\Xcom.AccesoDatos\bin\Debug\EntityFramework.dll
+C:\Users\Fabio\Desktop\Xcom\Xcom.AccesoDatos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Fabio\Desktop\Xcom\Xcom.AccesoDatos\bin\Debug\EntityFramework.xml
+C:\Users\Fabio\Desktop\Xcom\Xcom.AccesoDatos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Fabio\Desktop\Xcom\Xcom.AccesoDatos\obj\Debug\Xcom.AccesoDatos.csprojResolveAssemblyReference.cache
+C:\Users\Fabio\Desktop\Xcom\Xcom.AccesoDatos\obj\Debug\Xcom.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Desktop\Xcom\Xcom.AccesoDatos\obj\Debug\Xcom.AccesoDatos.csproj.CopyComplete
+C:\Users\Fabio\Desktop\Xcom\Xcom.AccesoDatos\obj\Debug\Xcom.AccesoDatos.dll
+C:\Users\Fabio\Desktop\Xcom\Xcom.AccesoDatos\obj\Debug\Xcom.AccesoDatos.pdb
+C:\Users\leo\Desktop\respaldo\Xcom\Xcom.AccesoDatos\bin\Debug\Xcom.AccesoDatos.dll.config
+C:\Users\leo\Desktop\respaldo\Xcom\Xcom.AccesoDatos\bin\Debug\Xcom.AccesoDatos.dll
+C:\Users\leo\Desktop\respaldo\Xcom\Xcom.AccesoDatos\bin\Debug\Xcom.AccesoDatos.pdb
+C:\Users\leo\Desktop\respaldo\Xcom\Xcom.AccesoDatos\bin\Debug\EntityFramework.dll
+C:\Users\leo\Desktop\respaldo\Xcom\Xcom.AccesoDatos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\leo\Desktop\respaldo\Xcom\Xcom.AccesoDatos\bin\Debug\EntityFramework.xml
+C:\Users\leo\Desktop\respaldo\Xcom\Xcom.AccesoDatos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\leo\Desktop\respaldo\Xcom\Xcom.AccesoDatos\obj\Debug\Xcom.AccesoDatos.csprojAssemblyReference.cache
+C:\Users\leo\Desktop\respaldo\Xcom\Xcom.AccesoDatos\obj\Debug\Xcom.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\leo\Desktop\respaldo\Xcom\Xcom.AccesoDatos\obj\Debug\Xcom.AccesoDatos.csproj.CopyComplete
+C:\Users\leo\Desktop\respaldo\Xcom\Xcom.AccesoDatos\obj\Debug\Xcom.AccesoDatos.dll
+C:\Users\leo\Desktop\respaldo\Xcom\Xcom.AccesoDatos\obj\Debug\Xcom.AccesoDatos.pdb
+C:\Users\enzoa\Desktop\Xcom\Xcom.AccesoDatos\bin\Debug\Xcom.AccesoDatos.dll.config
+C:\Users\enzoa\Desktop\Xcom\Xcom.AccesoDatos\bin\Debug\Xcom.AccesoDatos.dll
+C:\Users\enzoa\Desktop\Xcom\Xcom.AccesoDatos\bin\Debug\Xcom.AccesoDatos.pdb
+C:\Users\enzoa\Desktop\Xcom\Xcom.AccesoDatos\bin\Debug\EntityFramework.dll
+C:\Users\enzoa\Desktop\Xcom\Xcom.AccesoDatos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\enzoa\Desktop\Xcom\Xcom.AccesoDatos\bin\Debug\EntityFramework.xml
+C:\Users\enzoa\Desktop\Xcom\Xcom.AccesoDatos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\enzoa\Desktop\Xcom\Xcom.AccesoDatos\obj\Debug\Xcom.AccesoDatos.csprojAssemblyReference.cache
+C:\Users\enzoa\Desktop\Xcom\Xcom.AccesoDatos\obj\Debug\Xcom.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\enzoa\Desktop\Xcom\Xcom.AccesoDatos\obj\Debug\Xcom.AccesoDatos.csproj.CopyComplete
+C:\Users\enzoa\Desktop\Xcom\Xcom.AccesoDatos\obj\Debug\Xcom.AccesoDatos.dll
+C:\Users\enzoa\Desktop\Xcom\Xcom.AccesoDatos\obj\Debug\Xcom.AccesoDatos.pdb
+C:\Users\leo\Desktop\final lab luk\Xcom\Xcom.AccesoDatos\bin\Debug\Xcom.AccesoDatos.dll.config
+C:\Users\leo\Desktop\final lab luk\Xcom\Xcom.AccesoDatos\bin\Debug\Xcom.AccesoDatos.dll
+C:\Users\leo\Desktop\final lab luk\Xcom\Xcom.AccesoDatos\bin\Debug\Xcom.AccesoDatos.pdb
+C:\Users\leo\Desktop\final lab luk\Xcom\Xcom.AccesoDatos\bin\Debug\EntityFramework.dll
+C:\Users\leo\Desktop\final lab luk\Xcom\Xcom.AccesoDatos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\leo\Desktop\final lab luk\Xcom\Xcom.AccesoDatos\bin\Debug\EntityFramework.xml
+C:\Users\leo\Desktop\final lab luk\Xcom\Xcom.AccesoDatos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\leo\Desktop\final lab luk\Xcom\Xcom.AccesoDatos\obj\Debug\Xcom.AccesoDatos.csprojAssemblyReference.cache
+C:\Users\leo\Desktop\final lab luk\Xcom\Xcom.AccesoDatos\obj\Debug\Xcom.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\leo\Desktop\final lab luk\Xcom\Xcom.AccesoDatos\obj\Debug\Xcom.AccesoDatos.csproj.CopyComplete
+C:\Users\leo\Desktop\final lab luk\Xcom\Xcom.AccesoDatos\obj\Debug\Xcom.AccesoDatos.dll
+C:\Users\leo\Desktop\final lab luk\Xcom\Xcom.AccesoDatos\obj\Debug\Xcom.AccesoDatos.pdb
+C:\Users\leo\Desktop\final lab\Xcom\Xcom.AccesoDatos\bin\Debug\Xcom.AccesoDatos.dll.config
+C:\Users\leo\Desktop\final lab\Xcom\Xcom.AccesoDatos\bin\Debug\Xcom.AccesoDatos.dll
+C:\Users\leo\Desktop\final lab\Xcom\Xcom.AccesoDatos\bin\Debug\Xcom.AccesoDatos.pdb
+C:\Users\leo\Desktop\final lab\Xcom\Xcom.AccesoDatos\bin\Debug\EntityFramework.dll
+C:\Users\leo\Desktop\final lab\Xcom\Xcom.AccesoDatos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\leo\Desktop\final lab\Xcom\Xcom.AccesoDatos\bin\Debug\EntityFramework.xml
+C:\Users\leo\Desktop\final lab\Xcom\Xcom.AccesoDatos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\leo\Desktop\final lab\Xcom\Xcom.AccesoDatos\obj\Debug\Xcom.AccesoDatos.csprojAssemblyReference.cache
+C:\Users\leo\Desktop\final lab\Xcom\Xcom.AccesoDatos\obj\Debug\Xcom.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\leo\Desktop\final lab\Xcom\Xcom.AccesoDatos\obj\Debug\Xcom.AccesoDatos.csproj.CopyComplete
+C:\Users\leo\Desktop\final lab\Xcom\Xcom.AccesoDatos\obj\Debug\Xcom.AccesoDatos.dll
+C:\Users\leo\Desktop\final lab\Xcom\Xcom.AccesoDatos\obj\Debug\Xcom.AccesoDatos.pdb
+C:\Users\54381\Desktop\Xcom\Xcom.AccesoDatos\bin\Debug\Xcom.AccesoDatos.dll.config
+C:\Users\54381\Desktop\Xcom\Xcom.AccesoDatos\bin\Debug\Xcom.AccesoDatos.dll
+C:\Users\54381\Desktop\Xcom\Xcom.AccesoDatos\bin\Debug\Xcom.AccesoDatos.pdb
+C:\Users\54381\Desktop\Xcom\Xcom.AccesoDatos\bin\Debug\EntityFramework.dll
+C:\Users\54381\Desktop\Xcom\Xcom.AccesoDatos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\54381\Desktop\Xcom\Xcom.AccesoDatos\bin\Debug\EntityFramework.xml
+C:\Users\54381\Desktop\Xcom\Xcom.AccesoDatos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\54381\Desktop\Xcom\Xcom.AccesoDatos\obj\Debug\Xcom.AccesoDatos.csprojAssemblyReference.cache
+C:\Users\54381\Desktop\Xcom\Xcom.AccesoDatos\obj\Debug\Xcom.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\54381\Desktop\Xcom\Xcom.AccesoDatos\obj\Debug\Xcom.AccesoDatos.csproj.CopyComplete
+C:\Users\54381\Desktop\Xcom\Xcom.AccesoDatos\obj\Debug\Xcom.AccesoDatos.dll
+C:\Users\54381\Desktop\Xcom\Xcom.AccesoDatos\obj\Debug\Xcom.AccesoDatos.pdb

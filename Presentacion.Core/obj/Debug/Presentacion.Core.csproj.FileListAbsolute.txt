@@ -1,0 +1,554 @@
+C:\Users\lmagg\source\repos\Xcom\Presentacion.Core\bin\Debug\Presentacion.Core.dll
+C:\Users\lmagg\source\repos\Xcom\Presentacion.Core\bin\Debug\Presentacion.Core.pdb
+C:\Users\lmagg\source\repos\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.csprojAssemblyReference.cache
+C:\Users\lmagg\source\repos\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.CoreCompileInputs.cache
+C:\Users\lmagg\source\repos\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.dll
+C:\Users\lmagg\source\repos\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.pdb
+C:\Users\lmagg\source\repos\Xcom\Presentacion.Core\bin\Debug\Presentacion.FormularioBase.dll
+C:\Users\lmagg\source\repos\Xcom\Presentacion.Core\bin\Debug\Presentacion.FormularioBase.pdb
+C:\Users\lmagg\source\repos\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.CopyComplete
+C:\Users\lmagg\source\repos\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00003_Clientes.resources
+C:\Users\lmagg\source\repos\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.GenerateResource.cache
+C:\Users\lmagg\source\repos\Xcom\Presentacion.Core\bin\Debug\Presentacion.Constantes.dll
+C:\Users\lmagg\source\repos\Xcom\Presentacion.Core\bin\Debug\Presentacion.Constantes.pdb
+C:\Users\lmagg\source\repos\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Empleado._00001_Empleados.resources
+C:\Users\lmagg\source\repos\Xcom\Presentacion.Core\bin\Debug\Xcom.Servicio.Core.dll
+C:\Users\lmagg\source\repos\Xcom\Presentacion.Core\bin\Debug\Xcom.AccesoDatos.dll
+C:\Users\lmagg\source\repos\Xcom\Presentacion.Core\bin\Debug\EntityFramework.dll
+C:\Users\lmagg\source\repos\Xcom\Presentacion.Core\bin\Debug\Xcom.Servicio.Core.pdb
+C:\Users\lmagg\source\repos\Xcom\Presentacion.Core\bin\Debug\Xcom.Servicio.Core.dll.config
+C:\Users\lmagg\source\repos\Xcom\Presentacion.Core\bin\Debug\Xcom.AccesoDatos.pdb
+C:\Users\lmagg\source\repos\Xcom\Presentacion.Core\bin\Debug\Xcom.AccesoDatos.dll.config
+C:\Users\lmagg\source\repos\Xcom\Presentacion.Core\bin\Debug\EntityFramework.xml
+C:\Users\lmagg\source\repos\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Empleado._00002_ABM_Empleados.resources
+C:\Users\lmagg\source\repos\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Provincia._00005_Provincias.resources
+C:\Users\lmagg\source\repos\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Provincia._00006_Provincias_ABM.resources
+C:\Users\lmagg\source\repos\Xcom\Presentacion.Core\bin\Debug\Presentacion.Helpers.dll
+C:\Users\lmagg\source\repos\Xcom\Presentacion.Core\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\lmagg\source\repos\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Localidad._00008_Localidad_ABM.resources
+C:\Users\lmagg\source\repos\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Localidad._00007_Localidad.resources
+C:\Users\lmagg\source\repos\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00004_Clientes_ABM.resources
+C:\Users\lmagg\source\repos\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Marca._00009_Marcas.resources
+C:\Users\lmagg\source\repos\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Marca._00010_Marcas_ABM.resources
+C:\Users\lmagg\source\repos\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Rubro._00011_Rubro.resources
+C:\Users\lmagg\source\repos\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Rubro._00012_Rubro_ABM.resources
+C:\Users\lmagg\source\repos\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00013_Articulo.resources
+C:\Users\lmagg\source\repos\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00014_Articulo_ABM.resources
+C:\Users\lmagg\source\repos\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.ListaPrecio._00016_ListaPrecios_ABM.resources
+C:\Users\lmagg\source\repos\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.ListaPrecio._00015_ListaPrecios.resources
+C:\Users\lmagg\source\repos\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Salon._00017_Salon.resources
+C:\Users\lmagg\source\repos\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Salon._00018_Salon_ABM.resources
+C:\Users\lmagg\source\repos\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Precios._00019_Precios.resources
+C:\Users\lmagg\source\repos\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Mesa._00021_Mesa_ABM.resources
+C:\Users\lmagg\source\repos\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Salon._00022_MesasSalon.resources
+C:\Users\lmagg\source\repos\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Mesa._00020_Mesa.resources
+C:\Users\lmagg\source\repos\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.MotivoBaja._00024_MotivoBaja_ABM.resources
+C:\Users\lmagg\source\repos\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.MotivoBaja._00023_MotivoBaja.resources
+C:\Users\lmagg\source\repos\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.BajaArticulo._00025_BajaArticulo.resources
+C:\Users\lmagg\source\repos\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.BajaArticulo._00026_BajaArticulo_ABM.resources
+C:\Users\lmagg\source\repos\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Reserva._00028_Reserva.resources
+C:\Users\lmagg\source\repos\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Reserva._00029_Reserva_ABM.resources
+C:\Users\lmagg\source\repos\Xcom\Presentacion.Core\bin\Debug\Xcom.Servicio.Seguridad.dll
+C:\Users\lmagg\source\repos\Xcom\Presentacion.Core\bin\Debug\Xcom.Servicio.Seguridad.pdb
+C:\Users\lmagg\source\repos\Xcom\Presentacion.Core\bin\Debug\Xcom.Servicio.Seguridad.dll.config
+C:\Users\lmagg\source\repos\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Empresa._00031_Empresa_ABM.resources
+C:\Users\lmagg\source\repos\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Empresa._00030_Empresa.resources
+C:\Users\lmagg\source\repos\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.CondicionIva._00033_CondicionIva_ABM.resources
+C:\Users\lmagg\source\repos\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.CondicionIva._00032_CondicionIva.resources
+C:\Users\lmagg\source\repos\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.MotivoReserva._00034_MotivoReserva.resources
+C:\Users\lmagg\source\repos\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.MotivoReserva._00035_MotivoReserva_ABM.resources
+C:\Users\lmagg\source\repos\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.VentaSalon._00036_VentaSalon.resources
+C:\Users\lmagg\source\repos\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Mesa.Control.ControlMesa.resources
+C:\Users\lmagg\source\repos\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.VentaSalon._00037_ComprobanteMesa.resources
+C:\Users\lmagg\source\repos\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Properties.Resources.resources
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.csprojAssemblyReference.cache
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00013_Articulo.resources
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00014_Articulo_ABM.resources
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.BajaArticulo._00025_BajaArticulo.resources
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.BajaArticulo._00026_BajaArticulo_ABM.resources
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00003_Clientes.resources
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00004_Clientes_ABM.resources
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.CondicionIva._00032_CondicionIva.resources
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.CondicionIva._00033_CondicionIva_ABM.resources
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Empleado._00001_Empleados.resources
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Empleado._00002_ABM_Empleados.resources
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Empresa._00030_Empresa.resources
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Empresa._00031_Empresa_ABM.resources
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.ListaPrecio._00015_ListaPrecios.resources
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.ListaPrecio._00016_ListaPrecios_ABM.resources
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Localidad._00007_Localidad.resources
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Localidad._00008_Localidad_ABM.resources
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Marca._00009_Marcas.resources
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Marca._00010_Marcas_ABM.resources
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Mesa.Control.ControlMesa.resources
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Mesa._00020_Mesa.resources
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Mesa._00021_Mesa_ABM.resources
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.MotivoBaja._00023_MotivoBaja.resources
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.MotivoBaja._00024_MotivoBaja_ABM.resources
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.MotivoReserva._00034_MotivoReserva.resources
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.MotivoReserva._00035_MotivoReserva_ABM.resources
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Precios._00019_Precios.resources
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Properties.Resources.resources
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Provincia._00005_Provincias.resources
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Provincia._00006_Provincias_ABM.resources
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Reserva._00028_Reserva.resources
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Reserva._00029_Reserva_ABM.resources
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Rubro._00011_Rubro.resources
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Rubro._00012_Rubro_ABM.resources
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Salon._00017_Salon.resources
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Salon._00018_Salon_ABM.resources
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Salon._00022_MesasSalon.resources
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.VentaSalon._00036_VentaSalon.resources
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.VentaSalon._00037_ComprobanteMesa.resources
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.GenerateResource.cache
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.CoreCompileInputs.cache
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.dll
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.pdb
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Presentacion.Core\bin\Debug\Presentacion.Core.dll
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Presentacion.Core\bin\Debug\Presentacion.Core.pdb
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Presentacion.Core\bin\Debug\Presentacion.Constantes.dll
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Presentacion.Core\bin\Debug\Presentacion.FormularioBase.dll
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Presentacion.Core\bin\Debug\Presentacion.Helpers.dll
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Presentacion.Core\bin\Debug\Xcom.AccesoDatos.dll
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Presentacion.Core\bin\Debug\Xcom.Servicio.Core.dll
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Presentacion.Core\bin\Debug\Xcom.Servicio.Seguridad.dll
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Presentacion.Core\bin\Debug\EntityFramework.dll
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Presentacion.Core\bin\Debug\Presentacion.Constantes.pdb
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Presentacion.Core\bin\Debug\Presentacion.FormularioBase.pdb
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Presentacion.Core\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Presentacion.Core\bin\Debug\Xcom.AccesoDatos.pdb
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Presentacion.Core\bin\Debug\Xcom.AccesoDatos.dll.config
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Presentacion.Core\bin\Debug\Xcom.Servicio.Core.pdb
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Presentacion.Core\bin\Debug\Xcom.Servicio.Core.dll.config
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Presentacion.Core\bin\Debug\Xcom.Servicio.Seguridad.pdb
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Presentacion.Core\bin\Debug\Xcom.Servicio.Seguridad.dll.config
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Presentacion.Core\bin\Debug\EntityFramework.xml
+C:\Users\lmagg\Desktop\T.S.P\laboratorio2\Ultimo Respaldo Realizado\ultimo\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.CopyComplete
+C:\Users\lmagg\source\repos\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Reserva._00039_ReservaCliente.resources
+C:\Users\lmagg\source\repos\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.caja._00040_Caja.resources
+C:\Users\lmagg\source\repos\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.caja._00041_CajaCerrar.resources
+C:\Users\lmagg\source\repos\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.VentaKiosko._00043_VentaKiosko.resources
+C:\Users\lmagg\source\repos\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.FormaPago._00042_FormaPagoSalon.resources
+C:\Users\lmagg\source\repos\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Empleado._00044_Cliente_Cta_Cte.resources
+C:\Users\lmagg\source\repos\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Comprobante._00045_Comprobante.resources
+C:\Users\Fabio\Desktop\Xcom\Presentacion.Core\bin\Debug\Presentacion.Core.dll
+C:\Users\Fabio\Desktop\Xcom\Presentacion.Core\bin\Debug\Presentacion.Core.pdb
+C:\Users\Fabio\Desktop\Xcom\Presentacion.Core\bin\Debug\Presentacion.Constantes.dll
+C:\Users\Fabio\Desktop\Xcom\Presentacion.Core\bin\Debug\Presentacion.FormularioBase.dll
+C:\Users\Fabio\Desktop\Xcom\Presentacion.Core\bin\Debug\Presentacion.Helpers.dll
+C:\Users\Fabio\Desktop\Xcom\Presentacion.Core\bin\Debug\Xcom.AccesoDatos.dll
+C:\Users\Fabio\Desktop\Xcom\Presentacion.Core\bin\Debug\Xcom.Servicio.Core.dll
+C:\Users\Fabio\Desktop\Xcom\Presentacion.Core\bin\Debug\Xcom.Servicio.Seguridad.dll
+C:\Users\Fabio\Desktop\Xcom\Presentacion.Core\bin\Debug\EntityFramework.dll
+C:\Users\Fabio\Desktop\Xcom\Presentacion.Core\bin\Debug\Presentacion.Constantes.pdb
+C:\Users\Fabio\Desktop\Xcom\Presentacion.Core\bin\Debug\Presentacion.FormularioBase.pdb
+C:\Users\Fabio\Desktop\Xcom\Presentacion.Core\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\Fabio\Desktop\Xcom\Presentacion.Core\bin\Debug\Xcom.AccesoDatos.pdb
+C:\Users\Fabio\Desktop\Xcom\Presentacion.Core\bin\Debug\Xcom.AccesoDatos.dll.config
+C:\Users\Fabio\Desktop\Xcom\Presentacion.Core\bin\Debug\Xcom.Servicio.Core.pdb
+C:\Users\Fabio\Desktop\Xcom\Presentacion.Core\bin\Debug\Xcom.Servicio.Core.dll.config
+C:\Users\Fabio\Desktop\Xcom\Presentacion.Core\bin\Debug\Xcom.Servicio.Seguridad.pdb
+C:\Users\Fabio\Desktop\Xcom\Presentacion.Core\bin\Debug\Xcom.Servicio.Seguridad.dll.config
+C:\Users\Fabio\Desktop\Xcom\Presentacion.Core\bin\Debug\EntityFramework.xml
+C:\Users\Fabio\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.csprojResolveAssemblyReference.cache
+C:\Users\Fabio\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00013_Articulo.resources
+C:\Users\Fabio\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00014_Articulo_ABM.resources
+C:\Users\Fabio\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.BajaArticulo._00025_BajaArticulo.resources
+C:\Users\Fabio\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.BajaArticulo._00026_BajaArticulo_ABM.resources
+C:\Users\Fabio\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.caja._00041_CajaCerrar.resources
+C:\Users\Fabio\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.caja._00040_Caja.resources
+C:\Users\Fabio\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00003_Clientes.resources
+C:\Users\Fabio\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00004_Clientes_ABM.resources
+C:\Users\Fabio\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Comprobante._00045_Comprobante.resources
+C:\Users\Fabio\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.CondicionIva._00032_CondicionIva.resources
+C:\Users\Fabio\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.CondicionIva._00033_CondicionIva_ABM.resources
+C:\Users\Fabio\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Empleado._00001_Empleados.resources
+C:\Users\Fabio\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Empleado._00002_ABM_Empleados.resources
+C:\Users\Fabio\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Empleado._00044_Cliente_Cta_Cte.resources
+C:\Users\Fabio\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Empresa._00030_Empresa.resources
+C:\Users\Fabio\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Empresa._00031_Empresa_ABM.resources
+C:\Users\Fabio\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.FormaPago._00042_FormaPagoSalon.resources
+C:\Users\Fabio\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.ListaPrecio._00015_ListaPrecios.resources
+C:\Users\Fabio\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.ListaPrecio._00016_ListaPrecios_ABM.resources
+C:\Users\Fabio\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Localidad._00007_Localidad.resources
+C:\Users\Fabio\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Localidad._00008_Localidad_ABM.resources
+C:\Users\Fabio\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Marca._00009_Marcas.resources
+C:\Users\Fabio\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Marca._00010_Marcas_ABM.resources
+C:\Users\Fabio\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Mesa.Control.ControlMesa.resources
+C:\Users\Fabio\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Mesa._00020_Mesa.resources
+C:\Users\Fabio\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Mesa._00021_Mesa_ABM.resources
+C:\Users\Fabio\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.MotivoBaja._00023_MotivoBaja.resources
+C:\Users\Fabio\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.MotivoBaja._00024_MotivoBaja_ABM.resources
+C:\Users\Fabio\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.MotivoReserva._00034_MotivoReserva.resources
+C:\Users\Fabio\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.MotivoReserva._00035_MotivoReserva_ABM.resources
+C:\Users\Fabio\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Precios._00019_Precios.resources
+C:\Users\Fabio\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Properties.Resources.resources
+C:\Users\Fabio\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Provincia._00005_Provincias.resources
+C:\Users\Fabio\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Provincia._00006_Provincias_ABM.resources
+C:\Users\Fabio\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Reserva._00028_Reserva.resources
+C:\Users\Fabio\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Reserva._00029_Reserva_ABM.resources
+C:\Users\Fabio\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Reserva._00039_ReservaCliente.resources
+C:\Users\Fabio\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Rubro._00011_Rubro.resources
+C:\Users\Fabio\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Rubro._00012_Rubro_ABM.resources
+C:\Users\Fabio\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Salon._00017_Salon.resources
+C:\Users\Fabio\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Salon._00018_Salon_ABM.resources
+C:\Users\Fabio\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Salon._00022_MesasSalon.resources
+C:\Users\Fabio\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.VentaKiosko._00043_VentaKiosko.resources
+C:\Users\Fabio\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.VentaSalon._00036_VentaSalon.resources
+C:\Users\Fabio\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.VentaSalon._00037_ComprobanteMesa.resources
+C:\Users\Fabio\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.GenerateResource.cache
+C:\Users\Fabio\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.CopyComplete
+C:\Users\Fabio\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.dll
+C:\Users\Fabio\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.pdb
+C:\Users\leo\Desktop\respaldo\Xcom\Presentacion.Core\bin\Debug\Presentacion.Core.dll
+C:\Users\leo\Desktop\respaldo\Xcom\Presentacion.Core\bin\Debug\Presentacion.Core.pdb
+C:\Users\leo\Desktop\respaldo\Xcom\Presentacion.Core\bin\Debug\Presentacion.Constantes.dll
+C:\Users\leo\Desktop\respaldo\Xcom\Presentacion.Core\bin\Debug\Presentacion.FormularioBase.dll
+C:\Users\leo\Desktop\respaldo\Xcom\Presentacion.Core\bin\Debug\Presentacion.Helpers.dll
+C:\Users\leo\Desktop\respaldo\Xcom\Presentacion.Core\bin\Debug\Xcom.AccesoDatos.dll
+C:\Users\leo\Desktop\respaldo\Xcom\Presentacion.Core\bin\Debug\Xcom.Servicio.Core.dll
+C:\Users\leo\Desktop\respaldo\Xcom\Presentacion.Core\bin\Debug\Xcom.Servicio.Seguridad.dll
+C:\Users\leo\Desktop\respaldo\Xcom\Presentacion.Core\bin\Debug\EntityFramework.dll
+C:\Users\leo\Desktop\respaldo\Xcom\Presentacion.Core\bin\Debug\Presentacion.Constantes.pdb
+C:\Users\leo\Desktop\respaldo\Xcom\Presentacion.Core\bin\Debug\Presentacion.FormularioBase.pdb
+C:\Users\leo\Desktop\respaldo\Xcom\Presentacion.Core\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\leo\Desktop\respaldo\Xcom\Presentacion.Core\bin\Debug\Xcom.AccesoDatos.pdb
+C:\Users\leo\Desktop\respaldo\Xcom\Presentacion.Core\bin\Debug\Xcom.AccesoDatos.dll.config
+C:\Users\leo\Desktop\respaldo\Xcom\Presentacion.Core\bin\Debug\Xcom.Servicio.Core.pdb
+C:\Users\leo\Desktop\respaldo\Xcom\Presentacion.Core\bin\Debug\Xcom.Servicio.Core.dll.config
+C:\Users\leo\Desktop\respaldo\Xcom\Presentacion.Core\bin\Debug\Xcom.Servicio.Seguridad.pdb
+C:\Users\leo\Desktop\respaldo\Xcom\Presentacion.Core\bin\Debug\Xcom.Servicio.Seguridad.dll.config
+C:\Users\leo\Desktop\respaldo\Xcom\Presentacion.Core\bin\Debug\EntityFramework.xml
+C:\Users\leo\Desktop\respaldo\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.csprojAssemblyReference.cache
+C:\Users\leo\Desktop\respaldo\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00013_Articulo.resources
+C:\Users\leo\Desktop\respaldo\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00014_Articulo_ABM.resources
+C:\Users\leo\Desktop\respaldo\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.BajaArticulo._00025_BajaArticulo.resources
+C:\Users\leo\Desktop\respaldo\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.BajaArticulo._00026_BajaArticulo_ABM.resources
+C:\Users\leo\Desktop\respaldo\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.caja._00041_CajaCerrar.resources
+C:\Users\leo\Desktop\respaldo\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.caja._00040_Caja.resources
+C:\Users\leo\Desktop\respaldo\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00003_Clientes.resources
+C:\Users\leo\Desktop\respaldo\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00004_Clientes_ABM.resources
+C:\Users\leo\Desktop\respaldo\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Comprobante._00045_Comprobante.resources
+C:\Users\leo\Desktop\respaldo\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.CondicionIva._00032_CondicionIva.resources
+C:\Users\leo\Desktop\respaldo\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.CondicionIva._00033_CondicionIva_ABM.resources
+C:\Users\leo\Desktop\respaldo\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Empleado._00001_Empleados.resources
+C:\Users\leo\Desktop\respaldo\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Empleado._00002_ABM_Empleados.resources
+C:\Users\leo\Desktop\respaldo\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Empleado._00044_Cliente_Cta_Cte.resources
+C:\Users\leo\Desktop\respaldo\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Empresa._00030_Empresa.resources
+C:\Users\leo\Desktop\respaldo\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Empresa._00031_Empresa_ABM.resources
+C:\Users\leo\Desktop\respaldo\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.FormaPago._00042_FormaPagoSalon.resources
+C:\Users\leo\Desktop\respaldo\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.ListaPrecio._00015_ListaPrecios.resources
+C:\Users\leo\Desktop\respaldo\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.ListaPrecio._00016_ListaPrecios_ABM.resources
+C:\Users\leo\Desktop\respaldo\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Localidad._00007_Localidad.resources
+C:\Users\leo\Desktop\respaldo\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Localidad._00008_Localidad_ABM.resources
+C:\Users\leo\Desktop\respaldo\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Marca._00009_Marcas.resources
+C:\Users\leo\Desktop\respaldo\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Marca._00010_Marcas_ABM.resources
+C:\Users\leo\Desktop\respaldo\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Mesa.Control.ControlMesa.resources
+C:\Users\leo\Desktop\respaldo\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Mesa._00020_Mesa.resources
+C:\Users\leo\Desktop\respaldo\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Mesa._00021_Mesa_ABM.resources
+C:\Users\leo\Desktop\respaldo\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.MotivoBaja._00023_MotivoBaja.resources
+C:\Users\leo\Desktop\respaldo\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.MotivoBaja._00024_MotivoBaja_ABM.resources
+C:\Users\leo\Desktop\respaldo\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.MotivoReserva._00034_MotivoReserva.resources
+C:\Users\leo\Desktop\respaldo\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.MotivoReserva._00035_MotivoReserva_ABM.resources
+C:\Users\leo\Desktop\respaldo\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Precios._00019_Precios.resources
+C:\Users\leo\Desktop\respaldo\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Properties.Resources.resources
+C:\Users\leo\Desktop\respaldo\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Provincia._00005_Provincias.resources
+C:\Users\leo\Desktop\respaldo\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Provincia._00006_Provincias_ABM.resources
+C:\Users\leo\Desktop\respaldo\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Reserva._00028_Reserva.resources
+C:\Users\leo\Desktop\respaldo\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Reserva._00029_Reserva_ABM.resources
+C:\Users\leo\Desktop\respaldo\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Reserva._00039_ReservaCliente.resources
+C:\Users\leo\Desktop\respaldo\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Rubro._00011_Rubro.resources
+C:\Users\leo\Desktop\respaldo\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Rubro._00012_Rubro_ABM.resources
+C:\Users\leo\Desktop\respaldo\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Salon._00017_Salon.resources
+C:\Users\leo\Desktop\respaldo\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Salon._00018_Salon_ABM.resources
+C:\Users\leo\Desktop\respaldo\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Salon._00022_MesasSalon.resources
+C:\Users\leo\Desktop\respaldo\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.VentaKiosko._00043_VentaKiosko.resources
+C:\Users\leo\Desktop\respaldo\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.VentaSalon._00036_VentaSalon.resources
+C:\Users\leo\Desktop\respaldo\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.VentaSalon._00037_ComprobanteMesa.resources
+C:\Users\leo\Desktop\respaldo\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.GenerateResource.cache
+C:\Users\leo\Desktop\respaldo\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.CoreCompileInputs.cache
+C:\Users\leo\Desktop\respaldo\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.CopyComplete
+C:\Users\leo\Desktop\respaldo\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.dll
+C:\Users\leo\Desktop\respaldo\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.pdb
+C:\Users\enzoa\Desktop\Xcom\Presentacion.Core\bin\Debug\Presentacion.Core.dll
+C:\Users\enzoa\Desktop\Xcom\Presentacion.Core\bin\Debug\Presentacion.Core.pdb
+C:\Users\enzoa\Desktop\Xcom\Presentacion.Core\bin\Debug\Presentacion.Constantes.dll
+C:\Users\enzoa\Desktop\Xcom\Presentacion.Core\bin\Debug\Presentacion.FormularioBase.dll
+C:\Users\enzoa\Desktop\Xcom\Presentacion.Core\bin\Debug\Presentacion.Helpers.dll
+C:\Users\enzoa\Desktop\Xcom\Presentacion.Core\bin\Debug\Xcom.AccesoDatos.dll
+C:\Users\enzoa\Desktop\Xcom\Presentacion.Core\bin\Debug\Xcom.Servicio.Core.dll
+C:\Users\enzoa\Desktop\Xcom\Presentacion.Core\bin\Debug\Xcom.Servicio.Seguridad.dll
+C:\Users\enzoa\Desktop\Xcom\Presentacion.Core\bin\Debug\EntityFramework.dll
+C:\Users\enzoa\Desktop\Xcom\Presentacion.Core\bin\Debug\Presentacion.Constantes.pdb
+C:\Users\enzoa\Desktop\Xcom\Presentacion.Core\bin\Debug\Presentacion.FormularioBase.pdb
+C:\Users\enzoa\Desktop\Xcom\Presentacion.Core\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\enzoa\Desktop\Xcom\Presentacion.Core\bin\Debug\Xcom.AccesoDatos.pdb
+C:\Users\enzoa\Desktop\Xcom\Presentacion.Core\bin\Debug\Xcom.AccesoDatos.dll.config
+C:\Users\enzoa\Desktop\Xcom\Presentacion.Core\bin\Debug\Xcom.Servicio.Core.pdb
+C:\Users\enzoa\Desktop\Xcom\Presentacion.Core\bin\Debug\Xcom.Servicio.Core.dll.config
+C:\Users\enzoa\Desktop\Xcom\Presentacion.Core\bin\Debug\Xcom.Servicio.Seguridad.pdb
+C:\Users\enzoa\Desktop\Xcom\Presentacion.Core\bin\Debug\Xcom.Servicio.Seguridad.dll.config
+C:\Users\enzoa\Desktop\Xcom\Presentacion.Core\bin\Debug\EntityFramework.xml
+C:\Users\enzoa\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.csprojAssemblyReference.cache
+C:\Users\enzoa\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00013_Articulo.resources
+C:\Users\enzoa\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00014_Articulo_ABM.resources
+C:\Users\enzoa\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.BajaArticulo._00025_BajaArticulo.resources
+C:\Users\enzoa\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.BajaArticulo._00026_BajaArticulo_ABM.resources
+C:\Users\enzoa\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.caja._00041_CajaCerrar.resources
+C:\Users\enzoa\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.caja._00040_Caja.resources
+C:\Users\enzoa\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00003_Clientes.resources
+C:\Users\enzoa\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00004_Clientes_ABM.resources
+C:\Users\enzoa\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Comprobante._00045_Comprobante.resources
+C:\Users\enzoa\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.CondicionIva._00032_CondicionIva.resources
+C:\Users\enzoa\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.CondicionIva._00033_CondicionIva_ABM.resources
+C:\Users\enzoa\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Empleado._00001_Empleados.resources
+C:\Users\enzoa\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Empleado._00002_ABM_Empleados.resources
+C:\Users\enzoa\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Empleado._00044_Cliente_Cta_Cte.resources
+C:\Users\enzoa\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Empresa._00030_Empresa.resources
+C:\Users\enzoa\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Empresa._00031_Empresa_ABM.resources
+C:\Users\enzoa\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.FormaPago._00042_FormaPagoSalon.resources
+C:\Users\enzoa\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.ListaPrecio._00015_ListaPrecios.resources
+C:\Users\enzoa\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.ListaPrecio._00016_ListaPrecios_ABM.resources
+C:\Users\enzoa\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Localidad._00007_Localidad.resources
+C:\Users\enzoa\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Localidad._00008_Localidad_ABM.resources
+C:\Users\enzoa\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Marca._00009_Marcas.resources
+C:\Users\enzoa\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Marca._00010_Marcas_ABM.resources
+C:\Users\enzoa\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Mesa.Control.ControlMesa.resources
+C:\Users\enzoa\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Mesa._00020_Mesa.resources
+C:\Users\enzoa\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Mesa._00021_Mesa_ABM.resources
+C:\Users\enzoa\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.MotivoBaja._00023_MotivoBaja.resources
+C:\Users\enzoa\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.MotivoBaja._00024_MotivoBaja_ABM.resources
+C:\Users\enzoa\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.MotivoReserva._00034_MotivoReserva.resources
+C:\Users\enzoa\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.MotivoReserva._00035_MotivoReserva_ABM.resources
+C:\Users\enzoa\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Precios._00019_Precios.resources
+C:\Users\enzoa\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Properties.Resources.resources
+C:\Users\enzoa\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Provincia._00005_Provincias.resources
+C:\Users\enzoa\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Provincia._00006_Provincias_ABM.resources
+C:\Users\enzoa\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Reserva._00028_Reserva.resources
+C:\Users\enzoa\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Reserva._00029_Reserva_ABM.resources
+C:\Users\enzoa\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Reserva._00039_ReservaCliente.resources
+C:\Users\enzoa\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Rubro._00011_Rubro.resources
+C:\Users\enzoa\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Rubro._00012_Rubro_ABM.resources
+C:\Users\enzoa\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Salon._00017_Salon.resources
+C:\Users\enzoa\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Salon._00018_Salon_ABM.resources
+C:\Users\enzoa\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Salon._00022_MesasSalon.resources
+C:\Users\enzoa\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.VentaKiosko._00043_VentaKiosko.resources
+C:\Users\enzoa\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.VentaSalon._00036_VentaSalon.resources
+C:\Users\enzoa\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.VentaSalon._00037_ComprobanteMesa.resources
+C:\Users\enzoa\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.GenerateResource.cache
+C:\Users\enzoa\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.CoreCompileInputs.cache
+C:\Users\enzoa\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.CopyComplete
+C:\Users\enzoa\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.dll
+C:\Users\enzoa\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.pdb
+C:\Users\leo\Desktop\final lab luk\Xcom\Presentacion.Core\bin\Debug\Presentacion.Core.dll
+C:\Users\leo\Desktop\final lab luk\Xcom\Presentacion.Core\bin\Debug\Presentacion.Core.pdb
+C:\Users\leo\Desktop\final lab luk\Xcom\Presentacion.Core\bin\Debug\Presentacion.Constantes.dll
+C:\Users\leo\Desktop\final lab luk\Xcom\Presentacion.Core\bin\Debug\Presentacion.FormularioBase.dll
+C:\Users\leo\Desktop\final lab luk\Xcom\Presentacion.Core\bin\Debug\Presentacion.Helpers.dll
+C:\Users\leo\Desktop\final lab luk\Xcom\Presentacion.Core\bin\Debug\Xcom.AccesoDatos.dll
+C:\Users\leo\Desktop\final lab luk\Xcom\Presentacion.Core\bin\Debug\Xcom.Servicio.Core.dll
+C:\Users\leo\Desktop\final lab luk\Xcom\Presentacion.Core\bin\Debug\Xcom.Servicio.Seguridad.dll
+C:\Users\leo\Desktop\final lab luk\Xcom\Presentacion.Core\bin\Debug\EntityFramework.dll
+C:\Users\leo\Desktop\final lab luk\Xcom\Presentacion.Core\bin\Debug\Presentacion.Constantes.pdb
+C:\Users\leo\Desktop\final lab luk\Xcom\Presentacion.Core\bin\Debug\Presentacion.FormularioBase.pdb
+C:\Users\leo\Desktop\final lab luk\Xcom\Presentacion.Core\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\leo\Desktop\final lab luk\Xcom\Presentacion.Core\bin\Debug\Xcom.AccesoDatos.pdb
+C:\Users\leo\Desktop\final lab luk\Xcom\Presentacion.Core\bin\Debug\Xcom.AccesoDatos.dll.config
+C:\Users\leo\Desktop\final lab luk\Xcom\Presentacion.Core\bin\Debug\Xcom.Servicio.Core.pdb
+C:\Users\leo\Desktop\final lab luk\Xcom\Presentacion.Core\bin\Debug\Xcom.Servicio.Core.dll.config
+C:\Users\leo\Desktop\final lab luk\Xcom\Presentacion.Core\bin\Debug\Xcom.Servicio.Seguridad.pdb
+C:\Users\leo\Desktop\final lab luk\Xcom\Presentacion.Core\bin\Debug\Xcom.Servicio.Seguridad.dll.config
+C:\Users\leo\Desktop\final lab luk\Xcom\Presentacion.Core\bin\Debug\EntityFramework.xml
+C:\Users\leo\Desktop\final lab luk\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.csprojAssemblyReference.cache
+C:\Users\leo\Desktop\final lab luk\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00013_Articulo.resources
+C:\Users\leo\Desktop\final lab luk\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00014_Articulo_ABM.resources
+C:\Users\leo\Desktop\final lab luk\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.BajaArticulo._00025_BajaArticulo.resources
+C:\Users\leo\Desktop\final lab luk\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.BajaArticulo._00026_BajaArticulo_ABM.resources
+C:\Users\leo\Desktop\final lab luk\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.caja._00041_CajaCerrar.resources
+C:\Users\leo\Desktop\final lab luk\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.caja._00040_Caja.resources
+C:\Users\leo\Desktop\final lab luk\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00003_Clientes.resources
+C:\Users\leo\Desktop\final lab luk\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00004_Clientes_ABM.resources
+C:\Users\leo\Desktop\final lab luk\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Comprobante._00045_Comprobante.resources
+C:\Users\leo\Desktop\final lab luk\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.CondicionIva._00032_CondicionIva.resources
+C:\Users\leo\Desktop\final lab luk\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.CondicionIva._00033_CondicionIva_ABM.resources
+C:\Users\leo\Desktop\final lab luk\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Empleado._00001_Empleados.resources
+C:\Users\leo\Desktop\final lab luk\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Empleado._00002_ABM_Empleados.resources
+C:\Users\leo\Desktop\final lab luk\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Empleado._00044_Cliente_Cta_Cte.resources
+C:\Users\leo\Desktop\final lab luk\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Empresa._00030_Empresa.resources
+C:\Users\leo\Desktop\final lab luk\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Empresa._00031_Empresa_ABM.resources
+C:\Users\leo\Desktop\final lab luk\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.FormaPago._00042_FormaPagoSalon.resources
+C:\Users\leo\Desktop\final lab luk\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.ListaPrecio._00015_ListaPrecios.resources
+C:\Users\leo\Desktop\final lab luk\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.ListaPrecio._00016_ListaPrecios_ABM.resources
+C:\Users\leo\Desktop\final lab luk\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Localidad._00007_Localidad.resources
+C:\Users\leo\Desktop\final lab luk\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Localidad._00008_Localidad_ABM.resources
+C:\Users\leo\Desktop\final lab luk\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Marca._00009_Marcas.resources
+C:\Users\leo\Desktop\final lab luk\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Marca._00010_Marcas_ABM.resources
+C:\Users\leo\Desktop\final lab luk\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Mesa.Control.ControlMesa.resources
+C:\Users\leo\Desktop\final lab luk\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Mesa._00020_Mesa.resources
+C:\Users\leo\Desktop\final lab luk\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Mesa._00021_Mesa_ABM.resources
+C:\Users\leo\Desktop\final lab luk\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.MotivoBaja._00023_MotivoBaja.resources
+C:\Users\leo\Desktop\final lab luk\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.MotivoBaja._00024_MotivoBaja_ABM.resources
+C:\Users\leo\Desktop\final lab luk\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.MotivoReserva._00034_MotivoReserva.resources
+C:\Users\leo\Desktop\final lab luk\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.MotivoReserva._00035_MotivoReserva_ABM.resources
+C:\Users\leo\Desktop\final lab luk\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Precios._00019_Precios.resources
+C:\Users\leo\Desktop\final lab luk\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Properties.Resources.resources
+C:\Users\leo\Desktop\final lab luk\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Provincia._00005_Provincias.resources
+C:\Users\leo\Desktop\final lab luk\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Provincia._00006_Provincias_ABM.resources
+C:\Users\leo\Desktop\final lab luk\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Reserva._00028_Reserva.resources
+C:\Users\leo\Desktop\final lab luk\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Reserva._00029_Reserva_ABM.resources
+C:\Users\leo\Desktop\final lab luk\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Reserva._00039_ReservaCliente.resources
+C:\Users\leo\Desktop\final lab luk\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Rubro._00011_Rubro.resources
+C:\Users\leo\Desktop\final lab luk\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Rubro._00012_Rubro_ABM.resources
+C:\Users\leo\Desktop\final lab luk\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Salon._00017_Salon.resources
+C:\Users\leo\Desktop\final lab luk\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Salon._00018_Salon_ABM.resources
+C:\Users\leo\Desktop\final lab luk\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Salon._00022_MesasSalon.resources
+C:\Users\leo\Desktop\final lab luk\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.VentaKiosko._00043_VentaKiosko.resources
+C:\Users\leo\Desktop\final lab luk\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.VentaSalon._00036_VentaSalon.resources
+C:\Users\leo\Desktop\final lab luk\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.VentaSalon._00037_ComprobanteMesa.resources
+C:\Users\leo\Desktop\final lab luk\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.GenerateResource.cache
+C:\Users\leo\Desktop\final lab luk\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.CoreCompileInputs.cache
+C:\Users\leo\Desktop\final lab luk\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.CopyComplete
+C:\Users\leo\Desktop\final lab luk\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.dll
+C:\Users\leo\Desktop\final lab luk\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.pdb
+C:\Users\leo\Desktop\final lab\Xcom\Presentacion.Core\bin\Debug\Presentacion.Core.dll
+C:\Users\leo\Desktop\final lab\Xcom\Presentacion.Core\bin\Debug\Presentacion.Core.pdb
+C:\Users\leo\Desktop\final lab\Xcom\Presentacion.Core\bin\Debug\Presentacion.Constantes.dll
+C:\Users\leo\Desktop\final lab\Xcom\Presentacion.Core\bin\Debug\Presentacion.FormularioBase.dll
+C:\Users\leo\Desktop\final lab\Xcom\Presentacion.Core\bin\Debug\Presentacion.Helpers.dll
+C:\Users\leo\Desktop\final lab\Xcom\Presentacion.Core\bin\Debug\Xcom.AccesoDatos.dll
+C:\Users\leo\Desktop\final lab\Xcom\Presentacion.Core\bin\Debug\Xcom.Servicio.Core.dll
+C:\Users\leo\Desktop\final lab\Xcom\Presentacion.Core\bin\Debug\Xcom.Servicio.Seguridad.dll
+C:\Users\leo\Desktop\final lab\Xcom\Presentacion.Core\bin\Debug\EntityFramework.dll
+C:\Users\leo\Desktop\final lab\Xcom\Presentacion.Core\bin\Debug\Presentacion.Constantes.pdb
+C:\Users\leo\Desktop\final lab\Xcom\Presentacion.Core\bin\Debug\Presentacion.FormularioBase.pdb
+C:\Users\leo\Desktop\final lab\Xcom\Presentacion.Core\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\leo\Desktop\final lab\Xcom\Presentacion.Core\bin\Debug\Xcom.AccesoDatos.pdb
+C:\Users\leo\Desktop\final lab\Xcom\Presentacion.Core\bin\Debug\Xcom.AccesoDatos.dll.config
+C:\Users\leo\Desktop\final lab\Xcom\Presentacion.Core\bin\Debug\Xcom.Servicio.Core.pdb
+C:\Users\leo\Desktop\final lab\Xcom\Presentacion.Core\bin\Debug\Xcom.Servicio.Core.dll.config
+C:\Users\leo\Desktop\final lab\Xcom\Presentacion.Core\bin\Debug\Xcom.Servicio.Seguridad.pdb
+C:\Users\leo\Desktop\final lab\Xcom\Presentacion.Core\bin\Debug\Xcom.Servicio.Seguridad.dll.config
+C:\Users\leo\Desktop\final lab\Xcom\Presentacion.Core\bin\Debug\EntityFramework.xml
+C:\Users\leo\Desktop\final lab\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.csprojAssemblyReference.cache
+C:\Users\leo\Desktop\final lab\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00013_Articulo.resources
+C:\Users\leo\Desktop\final lab\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00014_Articulo_ABM.resources
+C:\Users\leo\Desktop\final lab\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.BajaArticulo._00025_BajaArticulo.resources
+C:\Users\leo\Desktop\final lab\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.BajaArticulo._00026_BajaArticulo_ABM.resources
+C:\Users\leo\Desktop\final lab\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.caja._00041_CajaCerrar.resources
+C:\Users\leo\Desktop\final lab\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.caja._00040_Caja.resources
+C:\Users\leo\Desktop\final lab\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00003_Clientes.resources
+C:\Users\leo\Desktop\final lab\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00004_Clientes_ABM.resources
+C:\Users\leo\Desktop\final lab\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Comprobante._00045_Comprobante.resources
+C:\Users\leo\Desktop\final lab\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.CondicionIva._00032_CondicionIva.resources
+C:\Users\leo\Desktop\final lab\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.CondicionIva._00033_CondicionIva_ABM.resources
+C:\Users\leo\Desktop\final lab\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Empleado._00001_Empleados.resources
+C:\Users\leo\Desktop\final lab\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Empleado._00002_ABM_Empleados.resources
+C:\Users\leo\Desktop\final lab\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Empleado._00044_Cliente_Cta_Cte.resources
+C:\Users\leo\Desktop\final lab\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Empresa._00030_Empresa.resources
+C:\Users\leo\Desktop\final lab\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Empresa._00031_Empresa_ABM.resources
+C:\Users\leo\Desktop\final lab\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.FormaPago._00042_FormaPagoSalon.resources
+C:\Users\leo\Desktop\final lab\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.ListaPrecio._00015_ListaPrecios.resources
+C:\Users\leo\Desktop\final lab\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.ListaPrecio._00016_ListaPrecios_ABM.resources
+C:\Users\leo\Desktop\final lab\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Localidad._00007_Localidad.resources
+C:\Users\leo\Desktop\final lab\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Localidad._00008_Localidad_ABM.resources
+C:\Users\leo\Desktop\final lab\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Marca._00009_Marcas.resources
+C:\Users\leo\Desktop\final lab\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Marca._00010_Marcas_ABM.resources
+C:\Users\leo\Desktop\final lab\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Mesa.Control.ControlMesa.resources
+C:\Users\leo\Desktop\final lab\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Mesa._00020_Mesa.resources
+C:\Users\leo\Desktop\final lab\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Mesa._00021_Mesa_ABM.resources
+C:\Users\leo\Desktop\final lab\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.MotivoBaja._00023_MotivoBaja.resources
+C:\Users\leo\Desktop\final lab\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.MotivoBaja._00024_MotivoBaja_ABM.resources
+C:\Users\leo\Desktop\final lab\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.MotivoReserva._00034_MotivoReserva.resources
+C:\Users\leo\Desktop\final lab\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.MotivoReserva._00035_MotivoReserva_ABM.resources
+C:\Users\leo\Desktop\final lab\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Precios._00019_Precios.resources
+C:\Users\leo\Desktop\final lab\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Properties.Resources.resources
+C:\Users\leo\Desktop\final lab\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Provincia._00005_Provincias.resources
+C:\Users\leo\Desktop\final lab\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Provincia._00006_Provincias_ABM.resources
+C:\Users\leo\Desktop\final lab\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Reserva._00028_Reserva.resources
+C:\Users\leo\Desktop\final lab\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Reserva._00029_Reserva_ABM.resources
+C:\Users\leo\Desktop\final lab\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Reserva._00039_ReservaCliente.resources
+C:\Users\leo\Desktop\final lab\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Rubro._00011_Rubro.resources
+C:\Users\leo\Desktop\final lab\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Rubro._00012_Rubro_ABM.resources
+C:\Users\leo\Desktop\final lab\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Salon._00017_Salon.resources
+C:\Users\leo\Desktop\final lab\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Salon._00018_Salon_ABM.resources
+C:\Users\leo\Desktop\final lab\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Salon._00022_MesasSalon.resources
+C:\Users\leo\Desktop\final lab\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.VentaKiosko._00043_VentaKiosko.resources
+C:\Users\leo\Desktop\final lab\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.VentaSalon._00036_VentaSalon.resources
+C:\Users\leo\Desktop\final lab\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.VentaSalon._00037_ComprobanteMesa.resources
+C:\Users\leo\Desktop\final lab\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.GenerateResource.cache
+C:\Users\leo\Desktop\final lab\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.CoreCompileInputs.cache
+C:\Users\leo\Desktop\final lab\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.CopyComplete
+C:\Users\leo\Desktop\final lab\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.dll
+C:\Users\leo\Desktop\final lab\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.pdb
+C:\Users\54381\Desktop\Xcom\Presentacion.Core\bin\Debug\Presentacion.Core.dll
+C:\Users\54381\Desktop\Xcom\Presentacion.Core\bin\Debug\Presentacion.Core.pdb
+C:\Users\54381\Desktop\Xcom\Presentacion.Core\bin\Debug\Presentacion.Constantes.dll
+C:\Users\54381\Desktop\Xcom\Presentacion.Core\bin\Debug\Presentacion.FormularioBase.dll
+C:\Users\54381\Desktop\Xcom\Presentacion.Core\bin\Debug\Presentacion.Helpers.dll
+C:\Users\54381\Desktop\Xcom\Presentacion.Core\bin\Debug\Xcom.AccesoDatos.dll
+C:\Users\54381\Desktop\Xcom\Presentacion.Core\bin\Debug\Xcom.Servicio.Core.dll
+C:\Users\54381\Desktop\Xcom\Presentacion.Core\bin\Debug\Xcom.Servicio.Seguridad.dll
+C:\Users\54381\Desktop\Xcom\Presentacion.Core\bin\Debug\EntityFramework.dll
+C:\Users\54381\Desktop\Xcom\Presentacion.Core\bin\Debug\Presentacion.Constantes.pdb
+C:\Users\54381\Desktop\Xcom\Presentacion.Core\bin\Debug\Presentacion.FormularioBase.pdb
+C:\Users\54381\Desktop\Xcom\Presentacion.Core\bin\Debug\Presentacion.Helpers.pdb
+C:\Users\54381\Desktop\Xcom\Presentacion.Core\bin\Debug\Xcom.AccesoDatos.pdb
+C:\Users\54381\Desktop\Xcom\Presentacion.Core\bin\Debug\Xcom.AccesoDatos.dll.config
+C:\Users\54381\Desktop\Xcom\Presentacion.Core\bin\Debug\Xcom.Servicio.Core.pdb
+C:\Users\54381\Desktop\Xcom\Presentacion.Core\bin\Debug\Xcom.Servicio.Core.dll.config
+C:\Users\54381\Desktop\Xcom\Presentacion.Core\bin\Debug\Xcom.Servicio.Seguridad.pdb
+C:\Users\54381\Desktop\Xcom\Presentacion.Core\bin\Debug\Xcom.Servicio.Seguridad.dll.config
+C:\Users\54381\Desktop\Xcom\Presentacion.Core\bin\Debug\EntityFramework.xml
+C:\Users\54381\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.csprojAssemblyReference.cache
+C:\Users\54381\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00013_Articulo.resources
+C:\Users\54381\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00014_Articulo_ABM.resources
+C:\Users\54381\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.BajaArticulo._00025_BajaArticulo.resources
+C:\Users\54381\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.BajaArticulo._00026_BajaArticulo_ABM.resources
+C:\Users\54381\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.caja._00041_CajaCerrar.resources
+C:\Users\54381\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.caja._00040_Caja.resources
+C:\Users\54381\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00003_Clientes.resources
+C:\Users\54381\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00004_Clientes_ABM.resources
+C:\Users\54381\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Comprobante._00045_Comprobante.resources
+C:\Users\54381\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.CondicionIva._00032_CondicionIva.resources
+C:\Users\54381\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.CondicionIva._00033_CondicionIva_ABM.resources
+C:\Users\54381\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Empleado._00001_Empleados.resources
+C:\Users\54381\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Empleado._00002_ABM_Empleados.resources
+C:\Users\54381\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Empleado._00044_Cliente_Cta_Cte.resources
+C:\Users\54381\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Empresa._00030_Empresa.resources
+C:\Users\54381\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Empresa._00031_Empresa_ABM.resources
+C:\Users\54381\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.FormaPago._00042_FormaPagoSalon.resources
+C:\Users\54381\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.ListaPrecio._00015_ListaPrecios.resources
+C:\Users\54381\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.ListaPrecio._00016_ListaPrecios_ABM.resources
+C:\Users\54381\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Localidad._00007_Localidad.resources
+C:\Users\54381\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Localidad._00008_Localidad_ABM.resources
+C:\Users\54381\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Marca._00009_Marcas.resources
+C:\Users\54381\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Marca._00010_Marcas_ABM.resources
+C:\Users\54381\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Mesa.Control.ControlMesa.resources
+C:\Users\54381\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Mesa._00020_Mesa.resources
+C:\Users\54381\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Mesa._00021_Mesa_ABM.resources
+C:\Users\54381\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.MotivoBaja._00023_MotivoBaja.resources
+C:\Users\54381\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.MotivoBaja._00024_MotivoBaja_ABM.resources
+C:\Users\54381\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.MotivoReserva._00034_MotivoReserva.resources
+C:\Users\54381\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.MotivoReserva._00035_MotivoReserva_ABM.resources
+C:\Users\54381\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Precios._00019_Precios.resources
+C:\Users\54381\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Properties.Resources.resources
+C:\Users\54381\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Provincia._00005_Provincias.resources
+C:\Users\54381\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Provincia._00006_Provincias_ABM.resources
+C:\Users\54381\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Reserva._00028_Reserva.resources
+C:\Users\54381\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Reserva._00029_Reserva_ABM.resources
+C:\Users\54381\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Reserva._00039_ReservaCliente.resources
+C:\Users\54381\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Rubro._00011_Rubro.resources
+C:\Users\54381\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Rubro._00012_Rubro_ABM.resources
+C:\Users\54381\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Salon._00017_Salon.resources
+C:\Users\54381\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Salon._00018_Salon_ABM.resources
+C:\Users\54381\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Salon._00022_MesasSalon.resources
+C:\Users\54381\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.VentaKiosko._00043_VentaKiosko.resources
+C:\Users\54381\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.VentaSalon._00036_VentaSalon.resources
+C:\Users\54381\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.VentaSalon._00037_ComprobanteMesa.resources
+C:\Users\54381\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.GenerateResource.cache
+C:\Users\54381\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.CoreCompileInputs.cache
+C:\Users\54381\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.CopyComplete
+C:\Users\54381\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.dll
+C:\Users\54381\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.pdb
+C:\Users\54381\Desktop\Xcom\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00045_Cliente_Efectivo.resources
